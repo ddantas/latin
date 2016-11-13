@@ -1,0 +1,63 @@
+name: pariō
+label: 3rd Conjugation-I
+updated: 12 November 2016
+example_word: "par[iō], par[ere], peper[ī], part[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | par[iō] | par[is] | par[it] | par[imus] | par[itis] | par[iunt]"
+      - "Imperfect | par[iēbam] | par[iēbās] | par[iēbat] | par[iēbāmus] | par[iēbātis] | par[iēbant]"
+      - "Future | par[iam] | par[iēs] | par[iet] | par[iēmus] | par[iētis] | par[ient]"
+      - "Perfect | peper[ī] | peper[istī] | peper[it] | peper[imus] | peper[istis] | peper[ērunt]"
+      - "Pluperfect | peper[eram] | peper[erās] | peper[erat] | peper[erāmus] | peper[erātis] | peper[erant]"
+      - "Future Perfect | peper[erō] | peper[eris] | peper[erit] | peper[erimus] | peper[eritis] | peper[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | par[ior] | par[eris] | par[itur] | par[imur] | par[iminī] | par[iuntur]"
+      - "Imperfect | par[iēbar] | par[iēbāris] | par[iēbātur] | par[iēbāmur] | par[iēbāminī] | par[iēbantur]"
+      - "Future | par[iar] | par[iēris] | par[iētur] | par[iēmur] | par[iēminī] | par[ientur]"
+      - "Perfect | part[us sum] | part[us es] | part[us est] | part[ī sumus] | part[ī estis] | part[ī sunt]"
+      - "Pluperfect | part[us eram] | part[us erās] | part[us erat] | part[ī erāmus] | part[ī erātis] | part[ī erant]"
+      - "Future Perfect | part[us erō] | part[us eris] | part[us erit] | part[ī erimus] | part[ī eritis] | part[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | par[iam] | par[iās] | par[iat] | par[iāmus] | par[iātis] | par[iant]"
+      - "Imperfect | par[erem] | par[erēs] | par[eret] | par[erēmus] | par[erētis] | par[erent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | peper[erim] | peper[erīs] | peper[erit] | peper[erīmus] | peper[erītis] | peper[erint]"
+      - "Pluperfect | peper[issem] | peper[issēs] | peper[isset] | peper[issēmus] | peper[issētis] | peper[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | par[iar] | par[iāris] | par[iātur] | par[iāmur] | par[iāminī] | par[iantur]"
+      - "Imperfect | par[erer] | par[erēris] | par[erētur] | par[erēmur] | par[erēminī] | par[erentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | part[us sim] | part[us sīs] | part[us sit] | part[ī sīmus] | part[ī sītis] | part[ī sint]"
+      - "Pluperfect | part[us essem] | part[us essēs] | part[us esset] | part[ī essēmus] | part[ī essētis] | part[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | par[ere] | par[ī]"
+      - "Future | part[ūrus esse] | part[um īrī]"
+      - "Perfect | peper[isse] | part[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | par[iēns] | "
+      - "Future | part[ūrus] | par[iendus]"
+      - "Perfect |  | part[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | par[iendī] | par[iendō] | par[iendum] | par[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | par[e] | par[ere]"
+      - "plural | par[ite] | par[iminī]"

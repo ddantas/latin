@@ -1,0 +1,63 @@
+name: possum
+label: Anomalous - Sum and derivatives
+updated: 12 November 2016
+example_word: "pos[sum], pos[se], potu[ī], -"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | pos[sum] | pot[es] | pot[est] | pos[sumus] | pot[estis] | pos[sunt]"
+      - "Imperfect | pot[eram] | pot[eras] | pot[erat] | pot[eramus] | pot[eratis] | pot[erant]"
+      - "Future | pot[erō] | pot[eris] | pot[erit] | pot[erimus] | pot[eritis] | pot[erunt]"
+      - "Perfect | potu[ī] | potu[istī] | potu[it] | potu[imus] | potu[istis] | potu[ērunt]"
+      - "Pluperfect | potu[eram] | potu[erās] | potu[erat] | potu[erāmus] | potu[erātis] | potu[erant]"
+      - "Future Perfect | potu[erō] | potu[eris] | potu[erit] | potu[erimus] | potu[eritis] | potu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Imperfect | pos[sim] | pos[sis] | pos[sit] | pos[sīmus] | pos[sītis] | pos[sint]"
+      - "Imperfect | pos[sem] | pos[sēs] | pos[set] | pos[sēmus] | pos[sētis] | pos[sent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | potu[erim] | potu[erīs] | potu[erit] | potu[erīmus] | potu[erītis] | potu[erint]"
+      - "Pluperfect | potu[issem] | potu[issēs] | potu[isset] | potu[issēmus] | potu[issētis] | potu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | pos[se] | "
+      - "Future | -[ūrus esse] | "
+      - "Perfect | potu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | pot[ens] | "
+      - "Future | -[ūrus] | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | pos[] | "
+      - "plural | pos[te] | "

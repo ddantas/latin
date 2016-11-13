@@ -1,0 +1,62 @@
+label: 3rd Conjugation-I Deponent
+updated: 11 November 2016
+example_word: mor[ior], ------mor[ere], mor[ī], mort[um]
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -mor[iō] | -mor[is] | -mor[it] | -mor[imus] | -mor[itis] | -mor[iunt]"
+      - "Imperfect | -mor[iēbam] | -mor[iēbās] | -mor[iēbat] | -mor[iēbāmus] | -mor[iēbātis] | -mor[iēbant]"
+      - "Future | -mor[iam] | -mor[iēs] | -mor[iet] | -mor[iēmus] | -mor[iētis] | -mor[ient]"
+      - "Perfect | -mor[ī] | -mor[istī] | -mor[it] | -mor[imus] | -mor[istis] | -mor[ērunt]"
+      - "Pluperfect | -mor[eram] | -mor[erās] | -mor[erat] | -mor[erāmus] | -mor[erātis] | -mor[erant]"
+      - "Future Perfect | -mor[erō] | -mor[eris] | -mor[erit] | -mor[erimus] | -mor[eritis] | -mor[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | mor[ior] | mor[eris] | mor[itur] | mor[imur] | mor[iminī] | mor[iuntur]"
+      - "Imperfect | mor[iēbar] | mor[iēbāris] | mor[iēbātur] | mor[iēbāmur] | mor[iēbāminī] | mor[iēbantur]"
+      - "Future | mor[iar] | mor[iēris] | mor[iētur] | mor[iēmur] | mor[iēminī] | mor[ientur]"
+      - "Perfect | mort[us sum] | mort[us es] | mort[us est] | mort[ī sumus] | mort[ī estis] | mort[ī sunt]"
+      - "Pluperfect | mort[us eram] | mort[us erās] | mort[us erat] | mort[ī erāmus] | mort[ī erātis] | mort[ī erant]"
+      - "Future Perfect | mort[us erō] | mort[us eris] | mort[us erit] | mort[ī erimus] | mort[ī eritis] | mort[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | -mor[iam] | -mor[iās] | -mor[iat] | -mor[iāmus] | -mor[iātis] | -mor[iant]"
+      - "Imperfect | -mor[erem] | -mor[erēs] | -mor[eret] | -mor[erēmus] | -mor[erētis] | -mor[erent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -mor[erim] | -mor[erīs] | -mor[erit] | -mor[erīmus] | -mor[erītis] | -mor[erint]"
+      - "Pluperfect | -mor[issem] | -mor[issēs] | -mor[isset] | -mor[issēmus] | -mor[issētis] | -mor[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | mor[iar] | mor[iāris] | mor[iātur] | mor[iāmur] | mor[iāminī] | mor[iantur]"
+      - "Imperfect | mor[erer] | mor[erēris] | mor[erētur] | mor[erēmur] | mor[erēminī] | mor[erentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | mort[us sim] | mort[us sīs] | mort[us sit] | mort[ī sīmus] | mort[ī sītis] | mort[ī sint]"
+      - "Pluperfect | mort[us essem] | mort[us essēs] | mort[us esset] | mort[ī essēmus] | mort[ī essētis] | mort[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | mor[ere] | mor[ī]"
+      - "Future | mort[ūrus esse] | mort[um īrī]"
+      - "Perfect | mor[isse] | mort[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | mor[iēns] | "
+      - "Future | mort[ūrus] | mor[iendus]"
+      - "Perfect |  | mort[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | mor[iendī] | mor[iendō] | mor[iendum] | mor[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | mor[e] | mor[ere]"
+      - "plural | mor[ite] | mor[iminī]"

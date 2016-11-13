@@ -1,0 +1,78 @@
+amo:    &AMO    {pres: "am[ō]",     inf: "am[āre]",    perf: "amāv[ī]",  sup: "amāt[um]",    paradigm: CONJ1  }
+amare:  *AMO
+video:  &VIDEO  {pres: "vid[eō]",   inf: "vid[ēre]",   perf: "vid[ī]",   sup: "vis[um]",     paradigm: CONJ2  }
+videre: *VIDEO
+lego:   &LEGO   {pres: "leg[ō]",    inf: "leg[ere]",   perf: "leg[ī]",   sup: "lect[um]",    paradigm: CONJ3  }
+legere: *LEGO
+capio:  &CAPIO  {pres: "cap[iō]",   inf: "cap[ere]",   perf: "cep[ī]",   sup: "capt[um]",    paradigm: CONJ3I }
+capere: *CAPIO
+audio:  &AUDIO  {pres: "aud[iō]",   inf: "aud[īre]",   perf: "audīv[ī]", sup: "audīt[um]",   paradigm: CONJ4  }
+audire: *AUDIO
+
+# Anomalous - Sum
+sum:       &SUM      {pres: "[sum]",      inf: "es[se]",      perf: "fu[ī]",      sup: "fut[urus]",      paradigm: "CONJSUM"  }
+esse:      *SUM
+absum:     &ABSUM    {pres: "ab[sum]",    inf: "abes[se]",    perf: "abfu[ī]",    sup: "abfut[urus]",    paradigm: "CONJSUM"  }
+abesse:    *ABSUM
+adsum:     &ADSUM    {pres: "ad[sum]",    inf: "ades[se]",    perf: "adfu[ī]",    sup: "adfut[urus]",    paradigm: "CONJSUM"  }
+adesse:    *ADSUM
+desum:     &DESUM    {pres: "de[sum]",    inf: "dees[se]",    perf: "defu[ī]",    sup: "defut[urus]",    paradigm: "CONJSUM"  }
+deesse:    *DESUM
+insum:     &INSUM    {pres: "in[sum]",    inf: "ines[se]",    perf: "infu[ī]",    sup: "infut[urus]",    paradigm: "CONJSUM"  }
+inesse:    *INSUM
+obsum:     &OBSUM    {pres: "ob[sum]",    inf: "obes[se]",    perf: "obfu[ī]",    sup: "obfut[urus]",    paradigm: "CONJSUM"  }
+obesse:    *OBSUM
+subsum:    &SUBSUM   {pres: "sub[sum]",   inf: "subes[se]",   perf: "subfu[ī]",   sup: "subfut[urus]",   paradigm: "CONJSUM"  }
+subesse:   *SUBSUM
+praesum:   &PRAESUM  {pres: "prae[sum]",  inf: "praees[se]",  perf: "praefu[ī]",  sup: "praefut[urus]",  paradigm: "CONJSUM"  }
+praeesse:  *PRAESUM
+intersum:  &INTERSUM {pres: "inter[sum]", inf: "interes[se]", perf: "interfu[ī]", sup: "interfut[urus]", paradigm: "CONJSUM"  }
+interesse: *INTERSUM
+supersum:  &SUPERSUM {pres: "super[sum]", inf: "superes[se]", perf: "superfu[ī]", sup: "superfut[urus]", paradigm: "CONJSUM"  }
+superesse: *SUPERSUM
+prosum:    &PROSUM   {pres: "pro[sum]",   inf: "prodes[se]",  perf: "profu[ī]",   sup: "profut[urus]",   paradigm: "CONJSUM|CONJPROSUM"  }
+prodesse:  *PROSUM
+possum:    &POSSUM   {pres: "pos[sum]",   inf: "pos[se]",     perf: "potu[ī]",    sup: "-",              paradigm: "CONJSUM|CONJPOSSUM"  }
+posse:     *POSSUM
+
+# Anomalous - Volo
+volo:      &VOLO     {pres: "vol[ō]",     inf: "vel[le]",    perf: "volu[ī]",    sup: "-",              paradigm: CONJVOLO  }
+velle:     *VOLO
+nolo:      &NOLO     {pres: "nol[ō]",     inf: "nol[le]",    perf: "nolu[ī]",    sup: "-",              paradigm: CONJVOLO|CONJNOLO  }
+nolle:     *NOLO
+malo:      &MALO     {pres: "mal[ō]",     inf: "mal[le]",    perf: "malu[ī]",    sup: "-",              paradigm: CONJVOLO|CONJMALO  }
+malle:     *MALO
+
+
+# Ā Ē Ī ō ū
+# Verbs in 3rd Conjugation-i
+allicio:  &ALLICIO {pres: "allic[iō]", inf: "allic[ere]", perf: "allēx[ī]", sup: "alect[um]",   paradigm: CONJ3I }
+allicere: *ALLICIO
+aspicio:  &ASPICIO {pres: "aspic[io]", inf: "aspic[ere]", perf: "aspēx[i]", sup: "aspect[um]",  paradigm: CONJ3I }
+aspicere: *ASPICIO
+cupio:    &CUPIO   {pres: "cup[iō]",   inf: "cup[ere]",   perf: "cupīv[ī]", sup: "cupīt[um]",   paradigm: CONJ3I }
+cupere:   *CUPIO
+facio:    &FACIO   {pres: "fac[iō]",   inf: "fac[ere]",   perf: "fēc[ī]",   sup: "fact[um]",    paradigm: CONJ3I|CONJFACIO }
+facere:   *FACIO
+fodio:    &FODIO   {pres: "fod[iō]",   inf: "fod[ere]",   perf: "fōd[ī]",   sup: "foss[um]",    paradigm: CONJ3I }
+fodere:   *FODIO
+fugio:    &FUGIO   {pres: "fug[iō]",   inf: "fug[ere]",   perf: "fūg[ī]",   sup: "fugit[um]",   paradigm: CONJ3I }
+fugere:   *FUGIO
+jacio:    &JACIO   {pres: "jac[iō]",   inf: "jac[ere]",   perf: "jēc[ī]",   sup: "jact[um]",    paradigm: CONJ3I }
+jacere:   *JACIO
+pario:    &PARIO   {pres: "par[iō]",   inf: "par[ere]",   perf: "peper[ī]", sup: "part[um]",    paradigm: CONJ3I }
+parere:   *PARIO
+rapio:    &RAPIO   {pres: "rap[iō]",   inf: "rap[ere]",   perf: "rapu[ī]",  sup: "rapt[um]",    paradigm: CONJ3I }
+rapere:   *RAPIO
+quatio:   &QUATIO  {pres: "quat[iō]",  inf: "quat[ere]",  perf: "quass[ī]", sup: "quass[um]",   paradigm: CONJ3I }
+quatere:  *QUATIO
+sapio:    &SAPIO   {pres: "sap[iō]",   inf: "sap[ere]",   perf: "sapi[ī]",  sup: "sapīt[um]",   paradigm: CONJ3I }
+sapere:   *SAPIO
+morior:   &MORIOR  {pres: "mor[ior]",  inf: "-mor[ere]",  perf: "mor[ī]",   sup: "mort[um]",    paradigm: "CONJ3I|DEPO3I" }
+morere:   *MORIOR 
+gradior:  &GRADIOR {pres: "grad[ior]", inf: "-grad[ere]", perf: "grad[ī]",  sup: "gress[um]",   paradigm: "CONJ3I|DEPO3I" }
+gradere:  *GRADIOR 
+patior:   &PATIOR  {pres: "pat[ior]",  inf: "-pat[ere]",  perf: "pat[ī]",   sup: "pass[um]",    paradigm: "CONJ3I|DEPO3I" }
+patere:   *PATIOR 
+
+

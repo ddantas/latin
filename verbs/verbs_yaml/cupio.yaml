@@ -1,0 +1,63 @@
+name: cupiō
+label: 3rd Conjugation-I
+updated: 12 November 2016
+example_word: "cup[iō], cup[ere], cupīv[ī], cupīt[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | cup[iō] | cup[is] | cup[it] | cup[imus] | cup[itis] | cup[iunt]"
+      - "Imperfect | cup[iēbam] | cup[iēbās] | cup[iēbat] | cup[iēbāmus] | cup[iēbātis] | cup[iēbant]"
+      - "Future | cup[iam] | cup[iēs] | cup[iet] | cup[iēmus] | cup[iētis] | cup[ient]"
+      - "Perfect | cupīv[ī] | cupīv[istī] | cupīv[it] | cupīv[imus] | cupīv[istis] | cupīv[ērunt]"
+      - "Pluperfect | cupīv[eram] | cupīv[erās] | cupīv[erat] | cupīv[erāmus] | cupīv[erātis] | cupīv[erant]"
+      - "Future Perfect | cupīv[erō] | cupīv[eris] | cupīv[erit] | cupīv[erimus] | cupīv[eritis] | cupīv[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | cup[ior] | cup[eris] | cup[itur] | cup[imur] | cup[iminī] | cup[iuntur]"
+      - "Imperfect | cup[iēbar] | cup[iēbāris] | cup[iēbātur] | cup[iēbāmur] | cup[iēbāminī] | cup[iēbantur]"
+      - "Future | cup[iar] | cup[iēris] | cup[iētur] | cup[iēmur] | cup[iēminī] | cup[ientur]"
+      - "Perfect | cupīt[us sum] | cupīt[us es] | cupīt[us est] | cupīt[ī sumus] | cupīt[ī estis] | cupīt[ī sunt]"
+      - "Pluperfect | cupīt[us eram] | cupīt[us erās] | cupīt[us erat] | cupīt[ī erāmus] | cupīt[ī erātis] | cupīt[ī erant]"
+      - "Future Perfect | cupīt[us erō] | cupīt[us eris] | cupīt[us erit] | cupīt[ī erimus] | cupīt[ī eritis] | cupīt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | cup[iam] | cup[iās] | cup[iat] | cup[iāmus] | cup[iātis] | cup[iant]"
+      - "Imperfect | cup[erem] | cup[erēs] | cup[eret] | cup[erēmus] | cup[erētis] | cup[erent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | cupīv[erim] | cupīv[erīs] | cupīv[erit] | cupīv[erīmus] | cupīv[erītis] | cupīv[erint]"
+      - "Pluperfect | cupīv[issem] | cupīv[issēs] | cupīv[isset] | cupīv[issēmus] | cupīv[issētis] | cupīv[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | cup[iar] | cup[iāris] | cup[iātur] | cup[iāmur] | cup[iāminī] | cup[iantur]"
+      - "Imperfect | cup[erer] | cup[erēris] | cup[erētur] | cup[erēmur] | cup[erēminī] | cup[erentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | cupīt[us sim] | cupīt[us sīs] | cupīt[us sit] | cupīt[ī sīmus] | cupīt[ī sītis] | cupīt[ī sint]"
+      - "Pluperfect | cupīt[us essem] | cupīt[us essēs] | cupīt[us esset] | cupīt[ī essēmus] | cupīt[ī essētis] | cupīt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | cup[ere] | cup[ī]"
+      - "Future | cupīt[ūrus esse] | cupīt[um īrī]"
+      - "Perfect | cupīv[isse] | cupīt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | cup[iēns] | "
+      - "Future | cupīt[ūrus] | cup[iendus]"
+      - "Perfect |  | cupīt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | cup[iendī] | cup[iendō] | cup[iendum] | cup[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | cup[e] | cup[ere]"
+      - "plural | cup[ite] | cup[iminī]"

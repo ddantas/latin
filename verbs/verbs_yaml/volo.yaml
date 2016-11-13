@@ -1,0 +1,63 @@
+name: volō
+label: Anomalous - Volo and derivatives
+updated: 12 November 2016
+example_word: "vol[ō], vel[le], volu[ī], -"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | vol[ō] | v[is] | v[ult] | vol[umus] | vul[tis] | vol[unt]"
+      - "Imperfect | vol[ēbam] | vol[ēbās] | vol[ēbat] | vol[ēbāmus] | vol[ēbātis] | vol[ēbant]"
+      - "Future | vol[am] | vol[ēs] | vol[et] | vol[ēmus] | vol[ētis] | vol[ent]"
+      - "Perfect | volu[ī] | volu[istī] | volu[it] | volu[imus] | volu[istis] | volu[ērunt]"
+      - "Pluperfect | volu[eram] | volu[erās] | volu[erat] | volu[erāmus] | volu[erātis] | volu[erant]"
+      - "Future Perfect | volu[erō] | volu[eris] | volu[erit] | volu[erimus] | volu[eritis] | volu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | vel[im] | vel[is] | vel[it] | vel[imus] | vel[itis] | vel[int]"
+      - "Imperfect | vel[lem] | vel[lēs] | vel[let] | vel[lēmus] | vel[lētis] | vel[ent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | volu[erim] | volu[erīs] | volu[erit] | volu[erīmus] | volu[erītis] | volu[erint]"
+      - "Pluperfect | volu[issem] | volu[issēs] | volu[isset] | volu[issēmus] | volu[issētis] | volu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | vel[le] | "
+      - "Future |  | "
+      - "Perfect | volu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | vol[ens] | "
+      - "Future |  | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular |  | "
+      - "plural |  | "

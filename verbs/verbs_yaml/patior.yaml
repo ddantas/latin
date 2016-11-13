@@ -1,0 +1,63 @@
+name: patior
+label: 3rd Conjugation-I Deponent
+updated: 12 November 2016
+example_word: "pat[ior], -pat[ere], pat[ī], pass[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -pat[iō] | -pat[is] | -pat[it] | -pat[imus] | -pat[itis] | -pat[iunt]"
+      - "Imperfect | -pat[iēbam] | -pat[iēbās] | -pat[iēbat] | -pat[iēbāmus] | -pat[iēbātis] | -pat[iēbant]"
+      - "Future | -pat[iam] | -pat[iēs] | -pat[iet] | -pat[iēmus] | -pat[iētis] | -pat[ient]"
+      - "Perfect | -pat[ī] | -pat[istī] | -pat[it] | -pat[imus] | -pat[istis] | -pat[ērunt]"
+      - "Pluperfect | -pat[eram] | -pat[erās] | -pat[erat] | -pat[erāmus] | -pat[erātis] | -pat[erant]"
+      - "Future Perfect | -pat[erō] | -pat[eris] | -pat[erit] | -pat[erimus] | -pat[eritis] | -pat[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | pat[ior] | pat[eris] | pat[itur] | pat[imur] | pat[iminī] | pat[iuntur]"
+      - "Imperfect | pat[iēbar] | pat[iēbāris] | pat[iēbātur] | pat[iēbāmur] | pat[iēbāminī] | pat[iēbantur]"
+      - "Future | pat[iar] | pat[iēris] | pat[iētur] | pat[iēmur] | pat[iēminī] | pat[ientur]"
+      - "Perfect | pass[us sum] | pass[us es] | pass[us est] | pass[ī sumus] | pass[ī estis] | pass[ī sunt]"
+      - "Pluperfect | pass[us eram] | pass[us erās] | pass[us erat] | pass[ī erāmus] | pass[ī erātis] | pass[ī erant]"
+      - "Future Perfect | pass[us erō] | pass[us eris] | pass[us erit] | pass[ī erimus] | pass[ī eritis] | pass[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | -pat[iam] | -pat[iās] | -pat[iat] | -pat[iāmus] | -pat[iātis] | -pat[iant]"
+      - "Imperfect | -pat[erem] | -pat[erēs] | -pat[eret] | -pat[erēmus] | -pat[erētis] | -pat[erent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -pat[erim] | -pat[erīs] | -pat[erit] | -pat[erīmus] | -pat[erītis] | -pat[erint]"
+      - "Pluperfect | -pat[issem] | -pat[issēs] | -pat[isset] | -pat[issēmus] | -pat[issētis] | -pat[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | pat[iar] | pat[iāris] | pat[iātur] | pat[iāmur] | pat[iāminī] | pat[iantur]"
+      - "Imperfect | pat[erer] | pat[erēris] | pat[erētur] | pat[erēmur] | pat[erēminī] | pat[erentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | pass[us sim] | pass[us sīs] | pass[us sit] | pass[ī sīmus] | pass[ī sītis] | pass[ī sint]"
+      - "Pluperfect | pass[us essem] | pass[us essēs] | pass[us esset] | pass[ī essēmus] | pass[ī essētis] | pass[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | pat[ere] | pat[ī]"
+      - "Future | pass[ūrus esse] | pass[um īrī]"
+      - "Perfect | pat[isse] | pass[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | pat[iēns] | "
+      - "Future | pass[ūrus] | pat[iendus]"
+      - "Perfect |  | pass[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | pat[iendī] | pat[iendō] | pat[iendum] | pat[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | pat[e] | pat[ere]"
+      - "plural | pat[ite] | pat[iminī]"

@@ -1,0 +1,63 @@
+name: obsum
+label: Anomalous - Sum and derivatives
+updated: 12 November 2016
+example_word: "ob[sum], obes[se], obfu[ī], obfut[urus]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | ob[sum] | ob[es] | ob[est] | ob[sumus] | ob[estis] | ob[sunt]"
+      - "Imperfect | ob[eram] | ob[eras] | ob[erat] | ob[eramus] | ob[eratis] | ob[erant]"
+      - "Future | ob[erō] | ob[eris] | ob[erit] | ob[erimus] | ob[eritis] | ob[erunt]"
+      - "Perfect | obfu[ī] | obfu[istī] | obfu[it] | obfu[imus] | obfu[istis] | obfu[ērunt]"
+      - "Pluperfect | obfu[eram] | obfu[erās] | obfu[erat] | obfu[erāmus] | obfu[erātis] | obfu[erant]"
+      - "Future Perfect | obfu[erō] | obfu[eris] | obfu[erit] | obfu[erimus] | obfu[eritis] | obfu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Imperfect | ob[sim] | ob[sis] | ob[sit] | ob[sīmus] | ob[sītis] | ob[sint]"
+      - "Imperfect | obes[sem] | obes[sēs] | obes[set] | obes[sēmus] | obes[sētis] | obes[sent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | obfu[erim] | obfu[erīs] | obfu[erit] | obfu[erīmus] | obfu[erītis] | obfu[erint]"
+      - "Pluperfect | obfu[issem] | obfu[issēs] | obfu[isset] | obfu[issēmus] | obfu[issētis] | obfu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | obes[se] | "
+      - "Future | obfut[ūrus esse] | "
+      - "Perfect | obfu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present |  | "
+      - "Future | obfut[ūrus] | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | obes[] | "
+      - "plural | obes[te] | "

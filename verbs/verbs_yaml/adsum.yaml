@@ -1,0 +1,63 @@
+name: adsum
+label: Anomalous - Sum and derivatives
+updated: 12 November 2016
+example_word: "ad[sum], ades[se], adfu[ī], adfut[urus]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | ad[sum] | ad[es] | ad[est] | ad[sumus] | ad[estis] | ad[sunt]"
+      - "Imperfect | ad[eram] | ad[eras] | ad[erat] | ad[eramus] | ad[eratis] | ad[erant]"
+      - "Future | ad[erō] | ad[eris] | ad[erit] | ad[erimus] | ad[eritis] | ad[erunt]"
+      - "Perfect | adfu[ī] | adfu[istī] | adfu[it] | adfu[imus] | adfu[istis] | adfu[ērunt]"
+      - "Pluperfect | adfu[eram] | adfu[erās] | adfu[erat] | adfu[erāmus] | adfu[erātis] | adfu[erant]"
+      - "Future Perfect | adfu[erō] | adfu[eris] | adfu[erit] | adfu[erimus] | adfu[eritis] | adfu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Imperfect | ad[sim] | ad[sis] | ad[sit] | ad[sīmus] | ad[sītis] | ad[sint]"
+      - "Imperfect | ades[sem] | ades[sēs] | ades[set] | ades[sēmus] | ades[sētis] | ades[sent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | adfu[erim] | adfu[erīs] | adfu[erit] | adfu[erīmus] | adfu[erītis] | adfu[erint]"
+      - "Pluperfect | adfu[issem] | adfu[issēs] | adfu[isset] | adfu[issēmus] | adfu[issētis] | adfu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | ades[se] | "
+      - "Future | adfut[ūrus esse] | "
+      - "Perfect | adfu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present |  | "
+      - "Future | adfut[ūrus] | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | ades[] | "
+      - "plural | ades[te] | "

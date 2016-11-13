@@ -1,0 +1,63 @@
+name: quatiō
+label: 3rd Conjugation-I
+updated: 12 November 2016
+example_word: "quat[iō], quat[ere], quass[ī], quass[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | quat[iō] | quat[is] | quat[it] | quat[imus] | quat[itis] | quat[iunt]"
+      - "Imperfect | quat[iēbam] | quat[iēbās] | quat[iēbat] | quat[iēbāmus] | quat[iēbātis] | quat[iēbant]"
+      - "Future | quat[iam] | quat[iēs] | quat[iet] | quat[iēmus] | quat[iētis] | quat[ient]"
+      - "Perfect | quass[ī] | quass[istī] | quass[it] | quass[imus] | quass[istis] | quass[ērunt]"
+      - "Pluperfect | quass[eram] | quass[erās] | quass[erat] | quass[erāmus] | quass[erātis] | quass[erant]"
+      - "Future Perfect | quass[erō] | quass[eris] | quass[erit] | quass[erimus] | quass[eritis] | quass[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | quat[ior] | quat[eris] | quat[itur] | quat[imur] | quat[iminī] | quat[iuntur]"
+      - "Imperfect | quat[iēbar] | quat[iēbāris] | quat[iēbātur] | quat[iēbāmur] | quat[iēbāminī] | quat[iēbantur]"
+      - "Future | quat[iar] | quat[iēris] | quat[iētur] | quat[iēmur] | quat[iēminī] | quat[ientur]"
+      - "Perfect | quass[us sum] | quass[us es] | quass[us est] | quass[ī sumus] | quass[ī estis] | quass[ī sunt]"
+      - "Pluperfect | quass[us eram] | quass[us erās] | quass[us erat] | quass[ī erāmus] | quass[ī erātis] | quass[ī erant]"
+      - "Future Perfect | quass[us erō] | quass[us eris] | quass[us erit] | quass[ī erimus] | quass[ī eritis] | quass[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | quat[iam] | quat[iās] | quat[iat] | quat[iāmus] | quat[iātis] | quat[iant]"
+      - "Imperfect | quat[erem] | quat[erēs] | quat[eret] | quat[erēmus] | quat[erētis] | quat[erent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | quass[erim] | quass[erīs] | quass[erit] | quass[erīmus] | quass[erītis] | quass[erint]"
+      - "Pluperfect | quass[issem] | quass[issēs] | quass[isset] | quass[issēmus] | quass[issētis] | quass[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | quat[iar] | quat[iāris] | quat[iātur] | quat[iāmur] | quat[iāminī] | quat[iantur]"
+      - "Imperfect | quat[erer] | quat[erēris] | quat[erētur] | quat[erēmur] | quat[erēminī] | quat[erentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | quass[us sim] | quass[us sīs] | quass[us sit] | quass[ī sīmus] | quass[ī sītis] | quass[ī sint]"
+      - "Pluperfect | quass[us essem] | quass[us essēs] | quass[us esset] | quass[ī essēmus] | quass[ī essētis] | quass[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | quat[ere] | quat[ī]"
+      - "Future | quass[ūrus esse] | quass[um īrī]"
+      - "Perfect | quass[isse] | quass[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | quat[iēns] | "
+      - "Future | quass[ūrus] | quat[iendus]"
+      - "Perfect |  | quass[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | quat[iendī] | quat[iendō] | quat[iendum] | quat[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | quat[e] | quat[ere]"
+      - "plural | quat[ite] | quat[iminī]"

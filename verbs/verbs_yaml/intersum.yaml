@@ -1,0 +1,63 @@
+name: intersum
+label: Anomalous - Sum and derivatives
+updated: 12 November 2016
+example_word: "inter[sum], interes[se], interfu[ī], interfut[urus]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | inter[sum] | inter[es] | inter[est] | inter[sumus] | inter[estis] | inter[sunt]"
+      - "Imperfect | inter[eram] | inter[eras] | inter[erat] | inter[eramus] | inter[eratis] | inter[erant]"
+      - "Future | inter[erō] | inter[eris] | inter[erit] | inter[erimus] | inter[eritis] | inter[erunt]"
+      - "Perfect | interfu[ī] | interfu[istī] | interfu[it] | interfu[imus] | interfu[istis] | interfu[ērunt]"
+      - "Pluperfect | interfu[eram] | interfu[erās] | interfu[erat] | interfu[erāmus] | interfu[erātis] | interfu[erant]"
+      - "Future Perfect | interfu[erō] | interfu[eris] | interfu[erit] | interfu[erimus] | interfu[eritis] | interfu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Imperfect | inter[sim] | inter[sis] | inter[sit] | inter[sīmus] | inter[sītis] | inter[sint]"
+      - "Imperfect | interes[sem] | interes[sēs] | interes[set] | interes[sēmus] | interes[sētis] | interes[sent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | interfu[erim] | interfu[erīs] | interfu[erit] | interfu[erīmus] | interfu[erītis] | interfu[erint]"
+      - "Pluperfect | interfu[issem] | interfu[issēs] | interfu[isset] | interfu[issēmus] | interfu[issētis] | interfu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | interes[se] | "
+      - "Future | interfut[ūrus esse] | "
+      - "Perfect | interfu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present |  | "
+      - "Future | interfut[ūrus] | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | interes[] | "
+      - "plural | interes[te] | "

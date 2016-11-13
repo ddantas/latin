@@ -1,0 +1,510 @@
+########## Regular
+CONJ1:
+  label: 1st Conjugation
+  rules:
+  - mood: Active Indicative
+    groups:
+      - "Present | RPRES[ō] | RPRES[ās] | RPRES[at] | RPRES[āmus] | RPRES[ātis] | RPRES[ant]"
+      - "Imperfect | RPRES[ābam] | RPRES[ābās] | RPRES[ābat] | RPRES[ābāmus] | RPRES[ābātis] | RPRES[ābant]"
+      - "Future | RPRES[ābō] | RPRES[ābis] | RPRES[ābit] | RPRES[ābimus] | RPRES[ābitis] | RPRES[ābunt]"
+      - "Perfect | RPERF[ī] | RPERF[istī] | RPERF[it] | RPERF[imus] | RPERF[istis] | RPERF[ērunt]"
+      - "Pluperfect | RPERF[eram] | RPERF[erās] | RPERF[erat] | RPERF[erāmus] | RPERF[erātis] | RPERF[erant]"
+      - "Future Perfect | RPERF[erō] | RPERF[eris] | RPERF[erit] | RPERF[erimus] | RPERF[eritis] | RPERF[erint]"
+
+  - mood: Passive Indicative
+    groups:
+      - "Present | RPRES[or] | RPRES[āris] | RPRES[ātur] | RPRES[āmur] | RPRES[āminī] | RPRES[antur]"
+      - "Imperfect | RPRES[ābar] | RPRES[ābāris] | RPRES[ābātur] | RPRES[ābāmur] | RPRES[ābāminī] | RPRES[ābantur]"
+      - "Future | RPRES[ābor] | RPRES[āberis] | RPRES[ābitur] | RPRES[ābimur] | RPRES[ābiminī] | RPRES[ābuntur]"
+      - "Perfect | RSUP[us sum] | RSUP[us es] | RSUP[us est] | RSUP[ī sumus] | RSUP[ī estis] | RSUP[ī sunt]"
+      - "Pluperfect | RSUP[us eram] | RSUP[us erās] | RSUP[us erat] | RSUP[ī erāmus] | RSUP[ī erātis] | RSUP[ī erant]"
+      - "Future Perfect | RSUP[us erō] | RSUP[us eris] | RSUP[us erit] | RSUP[ī erimus] | RSUP[ī eritis] | RSUP[ī erunt]"
+
+  - mood: Active Subjunctive
+    groups:
+      - "Present | RPRES[em] | RPRES[ēs] | RPRES[et] | RPRES[ēmus] | RPRES[ētis] | RPRES[ent]"
+      - "Imperfect | RPRES[ārem] | RPRES[ārēs] | RPRES[āret] | RPRES[ārēmus] | RPRES[ārētis] | RPRES[ārent]"
+      - " | | | | | | "
+      - "Perfect | RPERF[erim] | RPERF[erīs] | RPERF[erit] | RPERF[erīmus] | RPERF[erītis] | RPERF[erint]"
+      - "Pluperfect | RPERF[issem] | RPERF[issēs] | RPERF[isset] | RPERF[issēmus] | RPERF[issētis] | RPERF[issent]"
+      - " | | | | | | "
+
+  - mood: Passive Subjunctive
+    groups:
+      - "Present | RPRES[er] | RPRES[ēris] | RPRES[ētur] | RPRES[ēmur] | RPRES[ēminī] | RPRES[entur]"
+      - "Imperfect | RPRES[ārer] | RPRES[ārēris] | RPRES[ārētur] | RPRES[ārēmur] | RPRES[ārēminī] | RPRES[ārentur]"
+      - " | | | | | | "
+      - "Perfect | RSUP[us sim] | RSUP[us sīs] | RSUP[us sit] | RSUP[ī sīmus] | RSUP[ī sītis] | RSUP[ī sint]"
+      - "Pluperfect | RSUP[us essem] | RSUP[us essēs] | RSUP[us esset] | RSUP[ī essēmus] | RSUP[ī essētis] | RSUP[ī essent]"
+      - " | | | | | | "
+  - mood: Infinitive
+    groups:
+      - "Present | RPRES[āre] | RPRES[ārī]"
+      - "Future | RSUP[ūrus esse] | RSUP[um īrī]"
+      - "Perfect | RPERF[isse] | RSUP[us esse]"
+
+  - mood: Participle
+    groups:
+      - "Present | RPRES[āns] |"
+      - "Future | RSUP[ūrus] | RPRES[andus]"
+      - "Perfect | | RSUP[us]"
+
+  - mood: Gerund
+    type: headerless
+    groups:
+      - "| RPRES[andī] | RPRES[andō] | RPRES[andum] | RPRES[andō]"
+
+  - mood: Imperative
+    groups:
+      - "singular | RPRES[ā] | RPRES[āre]"
+      - "plural | RPRES[āte] | RPRES[āminī]"
+CONJ2:
+  label: 2nd Conjugation
+  rules:
+  - mood: Active Indicative
+    groups:
+      - "Present | RPRES[eō] | RPRES[ēs] | RPRES[et] | RPRES[ēmus] | RPRES[ētis] | RPRES[ent]"
+      - "Imperfect | RPRES[ēbam] | RPRES[ēbās] | RPRES[ēbat] | RPRES[ēbāmus] | RPRES[ēbātis] | RPRES[ēbant]"
+      - "Future | RPRES[ēbō] | RPRES[ēbis] | RPRES[ēbit] | RPRES[ēbimus] | RPRES[ēbitis] | RPRES[ēbunt]"
+      - "Perfect | RPERF[ī] | RPERF[istī] | RPERF[it] | RPERF[imus] | RPERF[istis] | RPERF[ērunt]"
+      - "Pluperfect | RPERF[eram] | RPERF[erās] | RPERF[erat] | RPERF[erāmus] | RPERF[erātis] | RPERF[erant]"
+      - "Future Perfect | RPERF[erō] | RPERF[eris] | RPERF[erit] | RPERF[erimus] | RPERF[eritis] | RPERF[erint]"
+
+  - mood: Passive Indicative
+    groups:
+      - "Present | RPRES[eor] | RPRES[ēris] | RPRES[ētur] | RPRES[ēmur] | RPRES[ēminī] | RPRES[entur]"
+      - "Imperfect | RPRES[ēbar] | RPRES[ēbāris] | RPRES[ēbātur] | RPRES[ēbāmur] | RPRES[ēbāminī] | RPRES[ēbantur]"
+      - "Future | RPRES[ēbor] | RPRES[ēberis] | RPRES[ēbitur] | RPRES[ēbimur] | RPRES[ēbiminī] | RPRES[ēbuntur]"
+      - "Perfect | RSUP[us sum] | RSUP[us es] | RSUP[us est] | RSUP[ī sumus] | RSUP[ī estis] | RSUP[ī sunt]"
+      - "Pluperfect | RSUP[us eram] | RSUP[us erās] | RSUP[us erat] | RSUP[ī erāmus] | RSUP[ī erātis] | RSUP[ī erant]"
+      - "Future Perfect | RSUP[us erō] | RSUP[us eris] | RSUP[us erit] | RSUP[ī erimus] | RSUP[ī eritis] | RSUP[ī erunt]"
+
+  - mood: Active Subjunctive
+    groups:
+      - "Present | RPRES[eam] | RPRES[eās] | RPRES[eat] | RPRES[eāmus] | RPRES[eātis] | RPRES[eant]"
+      - "Imperfect | RPRES[ērem] | RPRES[ērēs] | RPRES[ēret] | RPRES[ērēmus] | RPRES[ērētis] | RPRES[ērent]"
+      - " | | | | | | "
+      - "Perfect | RPERF[erim] | RPERF[erīs] | RPERF[erit] | RPERF[erīmus] | RPERF[erītis] | RPERF[erint]"
+      - "Pluperfect | RPERF[issem] | RPERF[issēs] | RPERF[isset] | RPERF[issēmus] | RPERF[issētis] | RPERF[issent]"
+      - " | | | | | | "
+
+  - mood: Passive Subjunctive
+    groups:
+      - "Present | RPRES[ear] | RPRES[eāris] | RPRES[eātur] | RPRES[eāmur] | RPRES[eāminī] | RPRES[eantur]"
+      - "Imperfect | RPRES[ērer] | RPRES[ērēris] | RPRES[ērētur] | RPRES[ērēmur] | RPRES[ērēminī] | RPRES[ērentur]"
+      - " | | | | | | "
+      - "Perfect | RSUP[us sim] | RSUP[us sīs] | RSUP[us sit] | RSUP[ī sīmus] | RSUP[ī sītis] | RSUP[ī sint]"
+      - "Pluperfect | RSUP[us essem] | RSUP[us essēs] | RSUP[us esset] | RSUP[ī essēmus] | RSUP[ī essētis] | RSUP[ī essent]"
+      - " | | | | | | "
+  - mood: Infinitive
+    groups:
+      - "Present | RPRES[ēre] | RPRES[ērī]"
+      - "Future | RSUP[ūrus esse] | RSUP[um īrī]"
+      - "Perfect | RPERF[isse] | RSUP[us esse]"
+
+  - mood: Participle
+    groups:
+      - "Present | RPRES[ēns] |"
+      - "Future | RSUP[ūrus] | RPRES[andus]"
+      - "Perfect | | RSUP[us]"
+
+  - mood: Gerund
+    type: headerless
+    groups:
+      - "| RPRES[andī] | RPRES[andō] | RPRES[andum] | RPRES[andō]"
+
+  - mood: Imperative
+    groups:
+      - "singular | RPRES[ē] | RPRES[ēre]"
+      - "plural | RPRES[ēte] | RPRES[ēminī]"
+CONJ3:
+  label: 3rd Conjugation
+  rules:
+  - mood: Active Indicative
+    groups:
+      - "Present | RPRES[ō] | RPRES[is] | RPRES[it] | RPRES[imus] | RPRES[itis] | RPRES[unt]"
+      - "Imperfect | RPRES[ēbam] | RPRES[ēbās] | RPRES[ēbat] | RPRES[ēbāmus] | RPRES[ēbātis] | RPRES[ēbant]"
+      - "Future | RPRES[am] | RPRES[ēs] | RPRES[et] | RPRES[ēmus] | RPRES[ētis] | RPRES[ent]"
+      - "Perfect | RPERF[ī] | RPERF[istī] | RPERF[it] | RPERF[imus] | RPERF[istis] | RPERF[ērunt]"
+      - "Pluperfect | RPERF[eram] | RPERF[erās] | RPERF[erat] | RPERF[erāmus] | RPERF[erātis] | RPERF[erant]"
+      - "Future Perfect | RPERF[erō] | RPERF[eris] | RPERF[erit] | RPERF[erimus] | RPERF[eritis] | RPERF[erint]"
+
+  - mood: Passive Indicative
+    groups:
+      - "Present | RPRES[or] | RPRES[eris] | RPRES[itur] | RPRES[imur] | RPRES[iminī] | RPRES[untur]"
+      - "Imperfect | RPRES[ēbar] | RPRES[ēbāris] | RPRES[ēbātur] | RPRES[ēbāmur] | RPRES[ēbāminī] | RPRES[ēbantur]"
+      - "Future | RPRES[ar] | RPRES[ēris] | RPRES[ētur] | RPRES[ēmur] | RPRES[ēminī] | RPRES[entur]"
+      - "Perfect | RSUP[us sum] | RSUP[us es] | RSUP[us est] | RSUP[ī sumus] | RSUP[ī estis] | RSUP[ī sunt]"
+      - "Pluperfect | RSUP[us eram] | RSUP[us erās] | RSUP[us erat] | RSUP[ī erāmus] | RSUP[ī erātis] | RSUP[ī erant]"
+      - "Future Perfect | RSUP[us erō] | RSUP[us eris] | RSUP[us erit] | RSUP[ī erimus] | RSUP[ī eritis] | RSUP[ī erunt]"
+
+  - mood: Active Subjunctive
+    groups:
+      - "Present | RPRES[am] | RPRES[ās] | RPRES[at] | RPRES[āmus] | RPRES[ātis] | RPRES[ant]"
+      - "Imperfect | RPRES[erem] | RPRES[erēs] | RPRES[eret] | RPRES[erēmus] | RPRES[erētis] | RPRES[erent]"
+      - " | | | | | | "
+      - "Perfect | RPERF[erim] | RPERF[erīs] | RPERF[erit] | RPERF[erīmus] | RPERF[erītis] | RPERF[erint]"
+      - "Pluperfect | RPERF[issem] | RPERF[issēs] | RPERF[isset] | RPERF[issēmus] | RPERF[issētis] | RPERF[issent]"
+      - " | | | | | | "
+
+  - mood: Passive Subjunctive
+    groups:
+      - "Present | RPRES[ar] | RPRES[āris] | RPRES[ātur] | RPRES[āmur] | RPRES[āminī] | RPRES[antur]"
+      - "Imperfect | RPRES[erer] | RPRES[erēris] | RPRES[erētur] | RPRES[erēmur] | RPRES[erēminī] | RPRES[erentur]"
+      - " | | | | | | "
+      - "Perfect | RSUP[us sim] | RSUP[us sīs] | RSUP[us sit] | RSUP[ī sīmus] | RSUP[ī sītis] | RSUP[ī sint]"
+      - "Pluperfect | RSUP[us essem] | RSUP[us essēs] | RSUP[us esset] | RSUP[ī essēmus] | RSUP[ī essētis] | RSUP[ī essent]"
+      - " | | | | | | "
+  - mood: Infinitive
+    groups:
+      - "Present | RPRES[ere] | RPRES[ī]"
+      - "Future | RSUP[ūrus esse] | RSUP[um īrī]"
+      - "Perfect | RPERF[isse] | RSUP[us esse]"
+
+  - mood: Participle
+    groups:
+      - "Present | RPRES[ēns] |"
+      - "Future | RSUP[ūrus] | RPRES[endus]"
+      - "Perfect | | RSUP[us]"
+
+  - mood: Gerund
+    type: headerless
+    groups:
+      - "| RPRES[endī] | RPRES[endō] | RPRES[endum] | RPRES[endō]"
+
+  - mood: Imperative
+    groups:
+      - "singular | RPRES[e] | RPRES[ere]"
+      - "plural | RPRES[ite] | RPRES[iminī]"
+CONJ3I:
+  label: 3rd Conjugation-I
+  rules:
+  - mood: Active Indicative
+    groups:
+      - "Present | RPRES[iō] | RPRES[is] | RPRES[it] | RPRES[imus] | RPRES[itis] | RPRES[iunt]"
+      - "Imperfect | RPRES[iēbam] | RPRES[iēbās] | RPRES[iēbat] | RPRES[iēbāmus] | RPRES[iēbātis] | RPRES[iēbant]"
+      - "Future | RPRES[iam] | RPRES[iēs] | RPRES[iet] | RPRES[iēmus] | RPRES[iētis] | RPRES[ient]"
+      - "Perfect | RPERF[ī] | RPERF[istī] | RPERF[it] | RPERF[imus] | RPERF[istis] | RPERF[ērunt]"
+      - "Pluperfect | RPERF[eram] | RPERF[erās] | RPERF[erat] | RPERF[erāmus] | RPERF[erātis] | RPERF[erant]"
+      - "Future Perfect | RPERF[erō] | RPERF[eris] | RPERF[erit] | RPERF[erimus] | RPERF[eritis] | RPERF[erint]"
+
+  - mood: Passive Indicative
+    groups:
+      - "Present | RPRES[ior] | RPRES[eris] | RPRES[itur] | RPRES[imur] | RPRES[iminī] | RPRES[iuntur]"
+      - "Imperfect | RPRES[iēbar] | RPRES[iēbāris] | RPRES[iēbātur] | RPRES[iēbāmur] | RPRES[iēbāminī] | RPRES[iēbantur]"
+      - "Future | RPRES[iar] | RPRES[iēris] | RPRES[iētur] | RPRES[iēmur] | RPRES[iēminī] | RPRES[ientur]"
+      - "Perfect | RSUP[us sum] | RSUP[us es] | RSUP[us est] | RSUP[ī sumus] | RSUP[ī estis] | RSUP[ī sunt]"
+      - "Pluperfect | RSUP[us eram] | RSUP[us erās] | RSUP[us erat] | RSUP[ī erāmus] | RSUP[ī erātis] | RSUP[ī erant]"
+      - "Future Perfect | RSUP[us erō] | RSUP[us eris] | RSUP[us erit] | RSUP[ī erimus] | RSUP[ī eritis] | RSUP[ī erunt]"
+
+  - mood: Active Subjunctive
+    groups:
+      - "Present | RPRES[iam] | RPRES[iās] | RPRES[iat] | RPRES[iāmus] | RPRES[iātis] | RPRES[iant]"
+      - "Imperfect | RPRES[erem] | RPRES[erēs] | RPRES[eret] | RPRES[erēmus] | RPRES[erētis] | RPRES[erent]"
+      - " | | | | | | "
+      - "Perfect | RPERF[erim] | RPERF[erīs] | RPERF[erit] | RPERF[erīmus] | RPERF[erītis] | RPERF[erint]"
+      - "Pluperfect | RPERF[issem] | RPERF[issēs] | RPERF[isset] | RPERF[issēmus] | RPERF[issētis] | RPERF[issent]"
+      - " | | | | | | "
+
+  - mood: Passive Subjunctive
+    groups:
+      - "Present | RPRES[iar] | RPRES[iāris] | RPRES[iātur] | RPRES[iāmur] | RPRES[iāminī] | RPRES[iantur]"
+      - "Imperfect | RPRES[erer] | RPRES[erēris] | RPRES[erētur] | RPRES[erēmur] | RPRES[erēminī] | RPRES[erentur]"
+      - " | | | | | | "
+      - "Perfect | RSUP[us sim] | RSUP[us sīs] | RSUP[us sit] | RSUP[ī sīmus] | RSUP[ī sītis] | RSUP[ī sint]"
+      - "Pluperfect | RSUP[us essem] | RSUP[us essēs] | RSUP[us esset] | RSUP[ī essēmus] | RSUP[ī essētis] | RSUP[ī essent]"
+      - " | | | | | | "
+  - mood: Infinitive
+    groups:
+      - "Present | RPRES[ere] | RPRES[ī]"
+      - "Future | RSUP[ūrus esse] | RSUP[um īrī]"
+      - "Perfect | RPERF[isse] | RSUP[us esse]"
+
+  - mood: Participle
+    groups:
+      - "Present | RPRES[iēns] |"
+      - "Future | RSUP[ūrus] | RPRES[iendus]"
+      - "Perfect | | RSUP[us]"
+
+  - mood: Gerund
+    type: headerless
+    groups:
+      - "| RPRES[iendī] | RPRES[iendō] | RPRES[iendum] | RPRES[iendō]"
+
+  - mood: Imperative
+    groups:
+      - "singular | RPRES[e] | RPRES[ere]"
+      - "plural | RPRES[ite] | RPRES[iminī]"
+CONJ4:
+  label: 4th Conjugation
+  rules:
+  - mood: Active Indicative
+    groups:
+      - "Present | RPRES[iō] | RPRES[īs] | RPRES[it] | RPRES[īmus] | RPRES[ītis] | RPRES[iunt]"
+      - "Imperfect | RPRES[iēbam] | RPRES[iēbās] | RPRES[iēbat] | RPRES[iēbāmus] | RPRES[iēbātis] | RPRES[iēbant]"
+      - "Future | RPRES[iam] | RPRES[iēs] | RPRES[iet] | RPRES[iēmus] | RPRES[iētis] | RPRES[ient]"
+      - "Perfect | RPERF[ī] | RPERF[istī] | RPERF[it] | RPERF[imus] | RPERF[istis] | RPERF[ērunt]"
+      - "Pluperfect | RPERF[eram] | RPERF[erās] | RPERF[erat] | RPERF[erāmus] | RPERF[erātis] | RPERF[erant]"
+      - "Future Perfect | RPERF[erō] | RPERF[eris] | RPERF[erit] | RPERF[erimus] | RPERF[eritis] | RPERF[erint]"
+
+  - mood: Passive Indicative
+    groups:
+      - "Present | RPRES[ior] | RPRES[īris] | RPRES[ītur] | RPRES[īmur] | RPRES[īminī] | RPRES[iuntur]"
+      - "Imperfect | RPRES[iēbar] | RPRES[iēbāris] | RPRES[iēbātur] | RPRES[iēbāmur] | RPRES[iēbāminī] | RPRES[iēbantur]"
+      - "Future | RPRES[iar] | RPRES[iēris] | RPRES[iētur] | RPRES[iēmur] | RPRES[iēminī] | RPRES[ientur]"
+      - "Perfect | RSUP[us sum] | RSUP[us es] | RSUP[us est] | RSUP[ī sumus] | RSUP[ī estis] | RSUP[ī sunt]"
+      - "Pluperfect | RSUP[us eram] | RSUP[us erās] | RSUP[us erat] | RSUP[ī erāmus] | RSUP[ī erātis] | RSUP[ī erant]"
+      - "Future Perfect | RSUP[us erō] | RSUP[us eris] | RSUP[us erit] | RSUP[ī erimus] | RSUP[ī eritis] | RSUP[ī erunt]"
+
+  - mood: Active Subjunctive
+    groups:
+      - "Present | RPRES[iam] | RPRES[iās] | RPRES[iat] | RPRES[iāmus] | RPRES[iātis] | RPRES[iant]"
+      - "Imperfect | RPRES[īrem] | RPRES[īrēs] | RPRES[īret] | RPRES[īrēmus] | RPRES[īrētis] | RPRES[īrent]"
+      - " | | | | | | "
+      - "Perfect | RPERF[erim] | RPERF[erīs] | RPERF[erit] | RPERF[erīmus] | RPERF[erītis] | RPERF[erint]"
+      - "Pluperfect | RPERF[issem] | RPERF[issēs] | RPERF[isset] | RPERF[issēmus] | RPERF[issētis] | RPERF[issent]"
+      - " | | | | | | "
+
+  - mood: Passive Subjunctive
+    groups:
+      - "Present | RPRES[iar] | RPRES[iāris] | RPRES[iātur] | RPRES[iāmur] | RPRES[iāminī] | RPRES[iantur]"
+      - "Imperfect | RPRES[īrer] | RPRES[īrēris] | RPRES[īrētur] | RPRES[īrēmur] | RPRES[īrēminī] | RPRES[īrentur]"
+      - " | | | | | | "
+      - "Perfect | RSUP[us sim] | RSUP[us sīs] | RSUP[us sit] | RSUP[ī sīmus] | RSUP[ī sītis] | RSUP[ī sint]"
+      - "Pluperfect | RSUP[us essem] | RSUP[us essēs] | RSUP[us esset] | RSUP[ī essēmus] | RSUP[ī essētis] | RSUP[ī essent]"
+      - " | | | | | | "
+  - mood: Infinitive
+    groups:
+      - "Present | RPRES[īre] | RPRES[īrī]"
+      - "Future | RSUP[ūrus esse] | RSUP[um īrī]"
+      - "Perfect | RPERF[isse] | RSUP[us esse]"
+
+  - mood: Participle
+    groups:
+      - "Present | RPRES[iēns] |"
+      - "Future | RSUP[ūrus] | RPRES[iendus]"
+      - "Perfect | | RSUP[us]"
+
+  - mood: Gerund
+    type: headerless
+    groups:
+      - "| RPRES[iendī] | RPRES[iendō] | RPRES[iendum] | RPRES[iendō]"
+
+  - mood: Imperative
+    groups:
+      - "singular | RPRES[ī] | RPRES[īre]"
+      - "plural | RPRES[īte] | RPRES[īminī]"
+
+
+########## Deponent
+DEPO3I:
+  label: 3rd Conjugation-I Deponent
+  rules:
+  - mood: Active Indicative
+    groups:
+      - "Present | -RPRES[iō] | -RPRES[is] | -RPRES[it] | -RPRES[imus] | -RPRES[itis] | -RPRES[iunt]"
+      - "Imperfect | -RPRES[iēbam] | -RPRES[iēbās] | -RPRES[iēbat] | -RPRES[iēbāmus] | -RPRES[iēbātis] | -RPRES[iēbant]"
+      - "Future | -RPRES[iam] | -RPRES[iēs] | -RPRES[iet] | -RPRES[iēmus] | -RPRES[iētis] | -RPRES[ient]"
+      - "Perfect | -RPERF[ī] | -RPERF[istī] | -RPERF[it] | -RPERF[imus] | -RPERF[istis] | -RPERF[ērunt]"
+      - "Pluperfect | -RPERF[eram] | -RPERF[erās] | -RPERF[erat] | -RPERF[erāmus] | -RPERF[erātis] | -RPERF[erant]"
+      - "Future Perfect | -RPERF[erō] | -RPERF[eris] | -RPERF[erit] | -RPERF[erimus] | -RPERF[eritis] | -RPERF[erint]"
+
+  - mood: Active Subjunctive
+    groups:
+      - "Present | -RPRES[iam] | -RPRES[iās] | -RPRES[iat] | -RPRES[iāmus] | -RPRES[iātis] | -RPRES[iant]"
+      - "Imperfect | -RPRES[erem] | -RPRES[erēs] | -RPRES[eret] | -RPRES[erēmus] | -RPRES[erētis] | -RPRES[erent]"
+      - "Perfect | -RPERF[erim] | -RPERF[erīs] | -RPERF[erit] | -RPERF[erīmus] | -RPERF[erītis] | -RPERF[erint]"
+      - "Pluperfect | -RPERF[issem] | -RPERF[issēs] | -RPERF[isset] | -RPERF[issēmus] | -RPERF[issētis] | -RPERF[issent]"
+
+
+
+CONJFACIO:
+  label: 3rd Conjugation-I - Irregular
+  rules:
+  - mood: Passive Indicative
+    groups:
+      - "Present | f[iō]* | f[is]* | f[it]* | f[imus]* | f[itis]* | f[iunt]*"
+      - "Imperfect | f[iēbam]* | f[iēbas]* | f[iēbat]* | f[iēbamus]* | f[iēbatis]* | f[iēbant]*"
+      - "Future | f[iam]* | f[iēs]* | f[iet]* | f[iēmus]* | f[iētis]* | f[ient]*"
+
+  - mood: Passive Subjunctive
+    groups:
+      - "Present | f[iam]* | f[iās]* | f[iat]* | f[iāmus]* | f[iātis]* | f[iant]*"
+      - "Imperfect | fi[erem]* | fi[erēs]* | fi[eret]* | fi[erēmus]* | fi[erētis]* | fi[erent]*"
+  - mood: Infinitive
+    groups:
+      - "Present | | fier[ī]*"
+
+  - mood: Imperative
+    groups:
+      - "singular | RPRES[]* | -"
+      - "plural | | -"
+
+
+########## Anomalous - Sum
+CONJSUM:
+  label: Anomalous - Sum and derivatives
+  rules:
+  - mood: Active Indicative
+    groups:
+      - "Present | RPRES[sum] | RPRES[es] | RPRES[est] | RPRES[sumus] | RPRES[estis] | RPRES[sunt]"
+      - "Imperfect | RPRES[eram] | RPRES[eras] | RPRES[erat] | RPRES[eramus] | RPRES[eratis] | RPRES[erant]"
+      - "Future | RPRES[erō] | RPRES[eris] | RPRES[erit] | RPRES[erimus] | RPRES[eritis] | RPRES[erunt]"
+      - "Perfect | RPERF[ī] | RPERF[istī] | RPERF[it] | RPERF[imus] | RPERF[istis] | RPERF[ērunt]"
+      - "Pluperfect | RPERF[eram] | RPERF[erās] | RPERF[erat] | RPERF[erāmus] | RPERF[erātis] | RPERF[erant]"
+      - "Future Perfect | RPERF[erō] | RPERF[eris] | RPERF[erit] | RPERF[erimus] | RPERF[eritis] | RPERF[erint]"
+
+  - mood: Passive Indicative
+    groups:
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+
+  - mood: Active Subjunctive
+    groups:
+      - "Present | RPRES[sim] | RPRES[sis] | RPRES[sit] | RPRES[sīmus] | RPRES[sītis] | RPRES[sint]"
+      - "Imperfect | RINF[sem] | RINF[sēs] | RINF[set] | RINF[sēmus] | RINF[sētis] | RINF[sent]"
+      - " | | | | | | "
+      - "Perfect | RPERF[erim] | RPERF[erīs] | RPERF[erit] | RPERF[erīmus] | RPERF[erītis] | RPERF[erint]"
+      - "Pluperfect | RPERF[issem] | RPERF[issēs] | RPERF[isset] | RPERF[issēmus] | RPERF[issētis] | RPERF[issent]"
+      - " | | | | | | "
+
+  - mood: Passive Subjunctive
+    groups:
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+  - mood: Infinitive
+    groups:
+      - "Present | RINF[se] |"
+      - "Future | RSUP[ūrus esse] |"
+      - "Perfect | RPERF[isse] |"
+
+  - mood: Participle
+    groups:
+      - "Present | |"
+      - "Future | RSUP[ūrus] |"
+      - "Perfect | |"
+
+  - mood: Gerund
+    type: headerless
+    groups:
+      - "| | | |"
+
+  - mood: Imperative
+    groups:
+      - "singular | RINF[] |"
+      - "plural | RINF[te] |"
+CONJPROSUM:
+  label: Anomalous - Sum and derivatives
+  rules:
+  - mood: Active Indicative
+    groups:
+      - "Present | RPRES[sum] | RPRESd[es] | RPRESd[est] | RPRES[sumus] | RPRESd[estis] | RPRES[sunt]"
+      - "Imperfect | RPRESd[eram] | RPRESd[eras] | RPRESd[erat] | RPRESd[eramus] | RPRESd[eratis] | RPRESd[erant]"
+      - "Future | RPRESd[erō] | RPRESd[eris] | RPRESd[erit] | RPRESd[erimus] | RPRESd[eritis] | RPRESd[erunt]"
+CONJPOSSUM:
+  label: Anomalous - Sum and derivatives
+  rules:
+  - mood: Active Indicative
+    groups:
+      - "Present | RPRES[sum] | pot[es] | pot[est] | pos[sumus] | pot[estis] | RPRES[sunt]"
+      - "Imperfect | pot[eram] | pot[eras] | pot[erat] | pot[eramus] | pot[eratis] | pot[erant]"
+      - "Future | pot[erō] | pot[eris] | pot[erit] | pot[erimus] | pot[eritis] | pot[erunt]"
+  - mood: Infinitive
+    groups:
+      - "Present | RINF[se] |"
+      - "Future | -RSUP[ūrus esse] |"
+      - "Perfect | RPERF[isse] |"
+  - mood: Participle
+    groups:
+      - "Present | pot[ens] |"
+      - "Future | -RSUP[ūrus] |"
+      - "Perfect | |"
+
+########## Anomalous - Volo
+CONJVOLO:
+  label: Anomalous - Volo and derivatives
+  rules:
+  - mood: Active Indicative
+    groups:
+      - "Present | vol[ō] | v[is] | v[ult] | vol[umus] | vul[tis] | vol[unt]"
+      - "Imperfect | RPRES[ēbam] | RPRES[ēbās] | RPRES[ēbat] | RPRES[ēbāmus] | RPRES[ēbātis] | RPRES[ēbant]"
+      - "Future | RPRES[am] | RPRES[ēs] | RPRES[et] | RPRES[ēmus] | RPRES[ētis] | RPRES[ent]"
+      - "Perfect | RPERF[ī] | RPERF[istī] | RPERF[it] | RPERF[imus] | RPERF[istis] | RPERF[ērunt]"
+      - "Pluperfect | RPERF[eram] | RPERF[erās] | RPERF[erat] | RPERF[erāmus] | RPERF[erātis] | RPERF[erant]"
+      - "Future Perfect | RPERF[erō] | RPERF[eris] | RPERF[erit] | RPERF[erimus] | RPERF[eritis] | RPERF[erint]"
+
+  - mood: Passive Indicative
+    groups:
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+
+  - mood: Active Subjunctive
+    groups:
+      - "Present | RINF[im] | RINF[is] | RINF[it] | RINF[imus] | RINF[itis] | RINF[int]"
+      - "Imperfect | RINF[lem] | RINF[lēs] | RINF[let] | RINF[lēmus] | RINF[lētis] | RINF[ent]"
+      - " | | | | | | "
+      - "Perfect | RPERF[erim] | RPERF[erīs] | RPERF[erit] | RPERF[erīmus] | RPERF[erītis] | RPERF[erint]"
+      - "Pluperfect | RPERF[issem] | RPERF[issēs] | RPERF[isset] | RPERF[issēmus] | RPERF[issētis] | RPERF[issent]"
+      - " | | | | | | "
+
+  - mood: Passive Subjunctive
+    groups:
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+      - " | | | | | | "
+  - mood: Infinitive
+    groups:
+      - "Present | RINF[le] |"
+      - "Future | |"
+      - "Perfect | RPERF[isse] |"
+
+  - mood: Participle
+    groups:
+      - "Present | RPRES[ens] |"
+      - "Future | |"
+      - "Perfect | |"
+
+  - mood: Gerund
+    type: headerless
+    groups:
+      - "| | | |"
+
+  - mood: Imperative
+    groups:
+      - "singular | |"
+      - "plural | |"
+
+CONJNOLO:
+  label: Anomalous - Volo and derivatives
+  rules:
+  - mood: Active Indicative
+    groups:
+      - "Present | nol[ō] | non v[is] | non v[ult] | nol[umus] | non vul[tis] | nol[unt]"
+  - mood: Imperative
+    groups:
+      - "singular | noli |"
+      - "plural | noli[te] |"
+
+CONJMALO:
+  label: Anomalous - Volo and derivatives
+  rules:
+  - mood: Active Indicative
+    groups:
+      - "Present | māl[ō] | māv[is] | māv[ult] | mal[umus] | mavul[tis] | māl[unt]"
+
+

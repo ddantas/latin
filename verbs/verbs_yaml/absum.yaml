@@ -1,0 +1,63 @@
+name: absum
+label: Anomalous - Sum and derivatives
+updated: 12 November 2016
+example_word: "ab[sum], abes[se], abfu[ī], abfut[urus]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | ab[sum] | ab[es] | ab[est] | ab[sumus] | ab[estis] | ab[sunt]"
+      - "Imperfect | ab[eram] | ab[eras] | ab[erat] | ab[eramus] | ab[eratis] | ab[erant]"
+      - "Future | ab[erō] | ab[eris] | ab[erit] | ab[erimus] | ab[eritis] | ab[erunt]"
+      - "Perfect | abfu[ī] | abfu[istī] | abfu[it] | abfu[imus] | abfu[istis] | abfu[ērunt]"
+      - "Pluperfect | abfu[eram] | abfu[erās] | abfu[erat] | abfu[erāmus] | abfu[erātis] | abfu[erant]"
+      - "Future Perfect | abfu[erō] | abfu[eris] | abfu[erit] | abfu[erimus] | abfu[eritis] | abfu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Imperfect | ab[sim] | ab[sis] | ab[sit] | ab[sīmus] | ab[sītis] | ab[sint]"
+      - "Imperfect | abes[sem] | abes[sēs] | abes[set] | abes[sēmus] | abes[sētis] | abes[sent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | abfu[erim] | abfu[erīs] | abfu[erit] | abfu[erīmus] | abfu[erītis] | abfu[erint]"
+      - "Pluperfect | abfu[issem] | abfu[issēs] | abfu[isset] | abfu[issēmus] | abfu[issētis] | abfu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | abes[se] | "
+      - "Future | abfut[ūrus esse] | "
+      - "Perfect | abfu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present |  | "
+      - "Future | abfut[ūrus] | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | abes[] | "
+      - "plural | abes[te] | "

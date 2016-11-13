@@ -1,0 +1,63 @@
+name: supersum
+label: Anomalous - Sum and derivatives
+updated: 12 November 2016
+example_word: "super[sum], superes[se], superfu[ī], superfut[urus]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | super[sum] | super[es] | super[est] | super[sumus] | super[estis] | super[sunt]"
+      - "Imperfect | super[eram] | super[eras] | super[erat] | super[eramus] | super[eratis] | super[erant]"
+      - "Future | super[erō] | super[eris] | super[erit] | super[erimus] | super[eritis] | super[erunt]"
+      - "Perfect | superfu[ī] | superfu[istī] | superfu[it] | superfu[imus] | superfu[istis] | superfu[ērunt]"
+      - "Pluperfect | superfu[eram] | superfu[erās] | superfu[erat] | superfu[erāmus] | superfu[erātis] | superfu[erant]"
+      - "Future Perfect | superfu[erō] | superfu[eris] | superfu[erit] | superfu[erimus] | superfu[eritis] | superfu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Imperfect | super[sim] | super[sis] | super[sit] | super[sīmus] | super[sītis] | super[sint]"
+      - "Imperfect | superes[sem] | superes[sēs] | superes[set] | superes[sēmus] | superes[sētis] | superes[sent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | superfu[erim] | superfu[erīs] | superfu[erit] | superfu[erīmus] | superfu[erītis] | superfu[erint]"
+      - "Pluperfect | superfu[issem] | superfu[issēs] | superfu[isset] | superfu[issēmus] | superfu[issētis] | superfu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | superes[se] | "
+      - "Future | superfut[ūrus esse] | "
+      - "Perfect | superfu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present |  | "
+      - "Future | superfut[ūrus] | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | superes[] | "
+      - "plural | superes[te] | "

@@ -1,0 +1,62 @@
+label: 3rd Conjugation-I
+updated: 11 November 2016
+example_word: jac[iō], jac[ere], jēc[ī], jact[um]
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present  |  jac[iō]  |  jac[is]  |  jac[it]  |  jac[imus]  |  jac[itis]  |  jac[iunt]"
+      - "Imperfect  |  jac[iēbam]  |  jac[iēbās]  |  jac[iēbat]  |  jac[iēbāmus]  |  jac[iēbātis]  |  jac[iēbant]"
+      - "Future  |  jac[iam]  |  jac[iēs]  |  jac[iet]  |  jac[iēmus]  |  jac[iētis]  |  jac[ient]"
+      - "Perfect  |  jēc[ī]  |  jēc[istī]  |  jēc[it]  |  jēc[imus]  |  jēc[istis]  |  jēc[ērunt]"
+      - "Pluperfect  |  jēc[eram]  |  jēc[erās]  |  jēc[erat]  |  jēc[erāmus]  |  jēc[erātis]  |  jēc[erant]"
+      - "Future Perfect  |  jēc[erō]  |  jēc[eris]  |  jēc[erit]  |  jēc[erimus]  |  jēc[eritis]  |  jēc[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present  |  jac[ior]  |  jac[eris]  |  jac[itur]  |  jac[imur]  |  jac[iminī]  |  jac[iuntur]"
+      - "Imperfect  |  jac[iēbar]  |  jac[iēbāris]  |  jac[iēbātur]  |  jac[iēbāmur]  |  jac[iēbāminī]  |  jac[iēbantur]"
+      - "Future  |  jac[iar]  |  jac[iēris]  |  jac[iētur]  |  jac[iēmur]  |  jac[iēminī]  |  jac[ientur]"
+      - "Perfect  |  jact[us sum]  |  jact[us es]  |  jact[us est]  |  jact[ī sumus]  |  jact[ī estis]  |  jact[ī sunt]"
+      - "Pluperfect  |  jact[us eram]  |  jact[us erās]  |  jact[us erat]  |  jact[ī erāmus]  |  jact[ī erātis]  |  jact[ī erant]"
+      - "Future Perfect  |  jact[us erō]  |  jact[us eris]  |  jact[us erit]  |  jact[ī erimus]  |  jact[ī eritis]  |  jact[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present  |  jac[iam]  |  jac[iās]  |  jac[iat]  |  jac[iāmus]  |  jac[iātis]  |  jac[iant]"
+      - "Imperfect  |  jac[erem]  |  jac[erēs]  |  jac[eret]  |  jac[erēmus]  |  jac[erētis]  |  jac[erent]"
+      - "  |   |   |   |   |   |  "
+      - "Perfect  |  jēc[erim]  |  jēc[erīs]  |  jēc[erit]  |  jēc[erīmus]  |  jēc[erītis]  |  jēc[erint]"
+      - "Pluperfect  |  jēc[issem]  |  jēc[issēs]  |  jēc[isset]  |  jēc[issēmus]  |  jēc[issētis]  |  jēc[issent]"
+      - "  |   |   |   |   |   |  "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present  |  jac[iar]  |  jac[iāris]  |  jac[iātur]  |  jac[iāmur]  |  jac[iāminī]  |  jac[iantur]"
+      - "Imperfect  |  jac[erer]  |  jac[erēris]  |  jac[erētur]  |  jac[erēmur]  |  jac[erēminī]  |  jac[erentur]"
+      - "  |   |   |   |   |   |  "
+      - "Perfect  |  jact[us sim]  |  jact[us sīs]  |  jact[us sit]  |  jact[ī sīmus]  |  jact[ī sītis]  |  jact[ī sint]"
+      - "Pluperfect  |  jact[us essem]  |  jact[us essēs]  |  jact[us esset]  |  jact[ī essēmus]  |  jact[ī essētis]  |  jact[ī essent]"
+      - "  |   |   |   |   |   |  "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present  |  jac[ere]  |  jac[ī]"
+      - "Future  |  jact[ūrus esse]  |  jact[um īrī]"
+      - "Perfect  |  jēc[isse]  |  jact[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present  |  jac[iēns]  | "
+      - "Future  |  jact[ūrus]  |  jac[iendus]"
+      - "Perfect  |   |  jact[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  jac[iendī]  |  jac[iendō]  |  jac[iendum]  |  jac[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular  |  jac[e]  |  jac[ere]"
+      - "plural  |  jac[ite]  |  jac[iminī]"

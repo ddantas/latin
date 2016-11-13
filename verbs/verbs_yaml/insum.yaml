@@ -1,0 +1,63 @@
+name: insum
+label: Anomalous - Sum and derivatives
+updated: 12 November 2016
+example_word: "in[sum], ines[se], infu[ī], infut[urus]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | in[sum] | in[es] | in[est] | in[sumus] | in[estis] | in[sunt]"
+      - "Imperfect | in[eram] | in[eras] | in[erat] | in[eramus] | in[eratis] | in[erant]"
+      - "Future | in[erō] | in[eris] | in[erit] | in[erimus] | in[eritis] | in[erunt]"
+      - "Perfect | infu[ī] | infu[istī] | infu[it] | infu[imus] | infu[istis] | infu[ērunt]"
+      - "Pluperfect | infu[eram] | infu[erās] | infu[erat] | infu[erāmus] | infu[erātis] | infu[erant]"
+      - "Future Perfect | infu[erō] | infu[eris] | infu[erit] | infu[erimus] | infu[eritis] | infu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Imperfect | in[sim] | in[sis] | in[sit] | in[sīmus] | in[sītis] | in[sint]"
+      - "Imperfect | ines[sem] | ines[sēs] | ines[set] | ines[sēmus] | ines[sētis] | ines[sent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | infu[erim] | infu[erīs] | infu[erit] | infu[erīmus] | infu[erītis] | infu[erint]"
+      - "Pluperfect | infu[issem] | infu[issēs] | infu[isset] | infu[issēmus] | infu[issētis] | infu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | ines[se] | "
+      - "Future | infut[ūrus esse] | "
+      - "Perfect | infu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present |  | "
+      - "Future | infut[ūrus] | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | ines[] | "
+      - "plural | ines[te] | "

@@ -1,0 +1,63 @@
+name: desum
+label: Anomalous - Sum and derivatives
+updated: 12 November 2016
+example_word: "de[sum], dees[se], defu[ī], defut[urus]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | de[sum] | de[es] | de[est] | de[sumus] | de[estis] | de[sunt]"
+      - "Imperfect | de[eram] | de[eras] | de[erat] | de[eramus] | de[eratis] | de[erant]"
+      - "Future | de[erō] | de[eris] | de[erit] | de[erimus] | de[eritis] | de[erunt]"
+      - "Perfect | defu[ī] | defu[istī] | defu[it] | defu[imus] | defu[istis] | defu[ērunt]"
+      - "Pluperfect | defu[eram] | defu[erās] | defu[erat] | defu[erāmus] | defu[erātis] | defu[erant]"
+      - "Future Perfect | defu[erō] | defu[eris] | defu[erit] | defu[erimus] | defu[eritis] | defu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Imperfect | de[sim] | de[sis] | de[sit] | de[sīmus] | de[sītis] | de[sint]"
+      - "Imperfect | dees[sem] | dees[sēs] | dees[set] | dees[sēmus] | dees[sētis] | dees[sent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | defu[erim] | defu[erīs] | defu[erit] | defu[erīmus] | defu[erītis] | defu[erint]"
+      - "Pluperfect | defu[issem] | defu[issēs] | defu[isset] | defu[issēmus] | defu[issētis] | defu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | dees[se] | "
+      - "Future | defut[ūrus esse] | "
+      - "Perfect | defu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present |  | "
+      - "Future | defut[ūrus] | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | dees[] | "
+      - "plural | dees[te] | "

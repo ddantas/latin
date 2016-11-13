@@ -1,0 +1,63 @@
+name: fugiō
+label: 3rd Conjugation-I
+updated: 12 November 2016
+example_word: "fug[iō], fug[ere], fūg[ī], fugit[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | fug[iō] | fug[is] | fug[it] | fug[imus] | fug[itis] | fug[iunt]"
+      - "Imperfect | fug[iēbam] | fug[iēbās] | fug[iēbat] | fug[iēbāmus] | fug[iēbātis] | fug[iēbant]"
+      - "Future | fug[iam] | fug[iēs] | fug[iet] | fug[iēmus] | fug[iētis] | fug[ient]"
+      - "Perfect | fūg[ī] | fūg[istī] | fūg[it] | fūg[imus] | fūg[istis] | fūg[ērunt]"
+      - "Pluperfect | fūg[eram] | fūg[erās] | fūg[erat] | fūg[erāmus] | fūg[erātis] | fūg[erant]"
+      - "Future Perfect | fūg[erō] | fūg[eris] | fūg[erit] | fūg[erimus] | fūg[eritis] | fūg[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | fug[ior] | fug[eris] | fug[itur] | fug[imur] | fug[iminī] | fug[iuntur]"
+      - "Imperfect | fug[iēbar] | fug[iēbāris] | fug[iēbātur] | fug[iēbāmur] | fug[iēbāminī] | fug[iēbantur]"
+      - "Future | fug[iar] | fug[iēris] | fug[iētur] | fug[iēmur] | fug[iēminī] | fug[ientur]"
+      - "Perfect | fugit[us sum] | fugit[us es] | fugit[us est] | fugit[ī sumus] | fugit[ī estis] | fugit[ī sunt]"
+      - "Pluperfect | fugit[us eram] | fugit[us erās] | fugit[us erat] | fugit[ī erāmus] | fugit[ī erātis] | fugit[ī erant]"
+      - "Future Perfect | fugit[us erō] | fugit[us eris] | fugit[us erit] | fugit[ī erimus] | fugit[ī eritis] | fugit[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | fug[iam] | fug[iās] | fug[iat] | fug[iāmus] | fug[iātis] | fug[iant]"
+      - "Imperfect | fug[erem] | fug[erēs] | fug[eret] | fug[erēmus] | fug[erētis] | fug[erent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | fūg[erim] | fūg[erīs] | fūg[erit] | fūg[erīmus] | fūg[erītis] | fūg[erint]"
+      - "Pluperfect | fūg[issem] | fūg[issēs] | fūg[isset] | fūg[issēmus] | fūg[issētis] | fūg[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | fug[iar] | fug[iāris] | fug[iātur] | fug[iāmur] | fug[iāminī] | fug[iantur]"
+      - "Imperfect | fug[erer] | fug[erēris] | fug[erētur] | fug[erēmur] | fug[erēminī] | fug[erentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | fugit[us sim] | fugit[us sīs] | fugit[us sit] | fugit[ī sīmus] | fugit[ī sītis] | fugit[ī sint]"
+      - "Pluperfect | fugit[us essem] | fugit[us essēs] | fugit[us esset] | fugit[ī essēmus] | fugit[ī essētis] | fugit[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | fug[ere] | fug[ī]"
+      - "Future | fugit[ūrus esse] | fugit[um īrī]"
+      - "Perfect | fūg[isse] | fugit[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | fug[iēns] | "
+      - "Future | fugit[ūrus] | fug[iendus]"
+      - "Perfect |  | fugit[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | fug[iendī] | fug[iendō] | fug[iendum] | fug[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | fug[e] | fug[ere]"
+      - "plural | fug[ite] | fug[iminī]"

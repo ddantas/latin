@@ -1,0 +1,63 @@
+name: alliciō
+label: 3rd Conjugation-I
+updated: 12 November 2016
+example_word: "allic[iō], allic[ere], allēx[ī], alect[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | allic[iō] | allic[is] | allic[it] | allic[imus] | allic[itis] | allic[iunt]"
+      - "Imperfect | allic[iēbam] | allic[iēbās] | allic[iēbat] | allic[iēbāmus] | allic[iēbātis] | allic[iēbant]"
+      - "Future | allic[iam] | allic[iēs] | allic[iet] | allic[iēmus] | allic[iētis] | allic[ient]"
+      - "Perfect | allēx[ī] | allēx[istī] | allēx[it] | allēx[imus] | allēx[istis] | allēx[ērunt]"
+      - "Pluperfect | allēx[eram] | allēx[erās] | allēx[erat] | allēx[erāmus] | allēx[erātis] | allēx[erant]"
+      - "Future Perfect | allēx[erō] | allēx[eris] | allēx[erit] | allēx[erimus] | allēx[eritis] | allēx[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | allic[ior] | allic[eris] | allic[itur] | allic[imur] | allic[iminī] | allic[iuntur]"
+      - "Imperfect | allic[iēbar] | allic[iēbāris] | allic[iēbātur] | allic[iēbāmur] | allic[iēbāminī] | allic[iēbantur]"
+      - "Future | allic[iar] | allic[iēris] | allic[iētur] | allic[iēmur] | allic[iēminī] | allic[ientur]"
+      - "Perfect | alect[us sum] | alect[us es] | alect[us est] | alect[ī sumus] | alect[ī estis] | alect[ī sunt]"
+      - "Pluperfect | alect[us eram] | alect[us erās] | alect[us erat] | alect[ī erāmus] | alect[ī erātis] | alect[ī erant]"
+      - "Future Perfect | alect[us erō] | alect[us eris] | alect[us erit] | alect[ī erimus] | alect[ī eritis] | alect[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | allic[iam] | allic[iās] | allic[iat] | allic[iāmus] | allic[iātis] | allic[iant]"
+      - "Imperfect | allic[erem] | allic[erēs] | allic[eret] | allic[erēmus] | allic[erētis] | allic[erent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | allēx[erim] | allēx[erīs] | allēx[erit] | allēx[erīmus] | allēx[erītis] | allēx[erint]"
+      - "Pluperfect | allēx[issem] | allēx[issēs] | allēx[isset] | allēx[issēmus] | allēx[issētis] | allēx[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | allic[iar] | allic[iāris] | allic[iātur] | allic[iāmur] | allic[iāminī] | allic[iantur]"
+      - "Imperfect | allic[erer] | allic[erēris] | allic[erētur] | allic[erēmur] | allic[erēminī] | allic[erentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | alect[us sim] | alect[us sīs] | alect[us sit] | alect[ī sīmus] | alect[ī sītis] | alect[ī sint]"
+      - "Pluperfect | alect[us essem] | alect[us essēs] | alect[us esset] | alect[ī essēmus] | alect[ī essētis] | alect[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | allic[ere] | allic[ī]"
+      - "Future | alect[ūrus esse] | alect[um īrī]"
+      - "Perfect | allēx[isse] | alect[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | allic[iēns] | "
+      - "Future | alect[ūrus] | allic[iendus]"
+      - "Perfect |  | alect[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | allic[iendī] | allic[iendō] | allic[iendum] | allic[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | allic[e] | allic[ere]"
+      - "plural | allic[ite] | allic[iminī]"

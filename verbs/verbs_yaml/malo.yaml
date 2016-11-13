@@ -1,0 +1,63 @@
+name: malō
+label: Anomalous - Volo and derivatives
+updated: 12 November 2016
+example_word: "mal[ō], mal[le], malu[ī], -"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | māl[ō] | māv[is] | māv[ult] | mal[umus] | mavul[tis] | māl[unt]"
+      - "Imperfect | mal[ēbam] | mal[ēbās] | mal[ēbat] | mal[ēbāmus] | mal[ēbātis] | mal[ēbant]"
+      - "Future | mal[am] | mal[ēs] | mal[et] | mal[ēmus] | mal[ētis] | mal[ent]"
+      - "Perfect | malu[ī] | malu[istī] | malu[it] | malu[imus] | malu[istis] | malu[ērunt]"
+      - "Pluperfect | malu[eram] | malu[erās] | malu[erat] | malu[erāmus] | malu[erātis] | malu[erant]"
+      - "Future Perfect | malu[erō] | malu[eris] | malu[erit] | malu[erimus] | malu[eritis] | malu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | mal[im] | mal[is] | mal[it] | mal[imus] | mal[itis] | mal[int]"
+      - "Imperfect | mal[lem] | mal[lēs] | mal[let] | mal[lēmus] | mal[lētis] | mal[ent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | malu[erim] | malu[erīs] | malu[erit] | malu[erīmus] | malu[erītis] | malu[erint]"
+      - "Pluperfect | malu[issem] | malu[issēs] | malu[isset] | malu[issēmus] | malu[issētis] | malu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | mal[le] | "
+      - "Future |  | "
+      - "Perfect | malu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | mal[ens] | "
+      - "Future |  | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular |  | "
+      - "plural |  | "

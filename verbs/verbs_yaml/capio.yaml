@@ -1,0 +1,63 @@
+name: capiō
+label: 3rd Conjugation-I
+updated: 12 November 2016
+example_word: "cap[iō], cap[ere], cep[ī], capt[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | cap[iō] | cap[is] | cap[it] | cap[imus] | cap[itis] | cap[iunt]"
+      - "Imperfect | cap[iēbam] | cap[iēbās] | cap[iēbat] | cap[iēbāmus] | cap[iēbātis] | cap[iēbant]"
+      - "Future | cap[iam] | cap[iēs] | cap[iet] | cap[iēmus] | cap[iētis] | cap[ient]"
+      - "Perfect | cep[ī] | cep[istī] | cep[it] | cep[imus] | cep[istis] | cep[ērunt]"
+      - "Pluperfect | cep[eram] | cep[erās] | cep[erat] | cep[erāmus] | cep[erātis] | cep[erant]"
+      - "Future Perfect | cep[erō] | cep[eris] | cep[erit] | cep[erimus] | cep[eritis] | cep[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | cap[ior] | cap[eris] | cap[itur] | cap[imur] | cap[iminī] | cap[iuntur]"
+      - "Imperfect | cap[iēbar] | cap[iēbāris] | cap[iēbātur] | cap[iēbāmur] | cap[iēbāminī] | cap[iēbantur]"
+      - "Future | cap[iar] | cap[iēris] | cap[iētur] | cap[iēmur] | cap[iēminī] | cap[ientur]"
+      - "Perfect | capt[us sum] | capt[us es] | capt[us est] | capt[ī sumus] | capt[ī estis] | capt[ī sunt]"
+      - "Pluperfect | capt[us eram] | capt[us erās] | capt[us erat] | capt[ī erāmus] | capt[ī erātis] | capt[ī erant]"
+      - "Future Perfect | capt[us erō] | capt[us eris] | capt[us erit] | capt[ī erimus] | capt[ī eritis] | capt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | cap[iam] | cap[iās] | cap[iat] | cap[iāmus] | cap[iātis] | cap[iant]"
+      - "Imperfect | cap[erem] | cap[erēs] | cap[eret] | cap[erēmus] | cap[erētis] | cap[erent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | cep[erim] | cep[erīs] | cep[erit] | cep[erīmus] | cep[erītis] | cep[erint]"
+      - "Pluperfect | cep[issem] | cep[issēs] | cep[isset] | cep[issēmus] | cep[issētis] | cep[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | cap[iar] | cap[iāris] | cap[iātur] | cap[iāmur] | cap[iāminī] | cap[iantur]"
+      - "Imperfect | cap[erer] | cap[erēris] | cap[erētur] | cap[erēmur] | cap[erēminī] | cap[erentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | capt[us sim] | capt[us sīs] | capt[us sit] | capt[ī sīmus] | capt[ī sītis] | capt[ī sint]"
+      - "Pluperfect | capt[us essem] | capt[us essēs] | capt[us esset] | capt[ī essēmus] | capt[ī essētis] | capt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | cap[ere] | cap[ī]"
+      - "Future | capt[ūrus esse] | capt[um īrī]"
+      - "Perfect | cep[isse] | capt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | cap[iēns] | "
+      - "Future | capt[ūrus] | cap[iendus]"
+      - "Perfect |  | capt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | cap[iendī] | cap[iendō] | cap[iendum] | cap[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | cap[e] | cap[ere]"
+      - "plural | cap[ite] | cap[iminī]"

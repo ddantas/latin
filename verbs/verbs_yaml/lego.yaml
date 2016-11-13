@@ -1,0 +1,63 @@
+name: legō
+label: 3rd Conjugation
+updated: 12 November 2016
+example_word: "leg[ō], leg[ere], leg[ī], lect[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | leg[ō] | leg[is] | leg[it] | leg[imus] | leg[itis] | leg[unt]"
+      - "Imperfect | leg[ēbam] | leg[ēbās] | leg[ēbat] | leg[ēbāmus] | leg[ēbātis] | leg[ēbant]"
+      - "Future | leg[am] | leg[ēs] | leg[et] | leg[ēmus] | leg[ētis] | leg[ent]"
+      - "Perfect | leg[ī] | leg[istī] | leg[it] | leg[imus] | leg[istis] | leg[ērunt]"
+      - "Pluperfect | leg[eram] | leg[erās] | leg[erat] | leg[erāmus] | leg[erātis] | leg[erant]"
+      - "Future Perfect | leg[erō] | leg[eris] | leg[erit] | leg[erimus] | leg[eritis] | leg[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | leg[or] | leg[eris] | leg[itur] | leg[imur] | leg[iminī] | leg[untur]"
+      - "Imperfect | leg[ēbar] | leg[ēbāris] | leg[ēbātur] | leg[ēbāmur] | leg[ēbāminī] | leg[ēbantur]"
+      - "Future | leg[ar] | leg[ēris] | leg[ētur] | leg[ēmur] | leg[ēminī] | leg[entur]"
+      - "Perfect | lect[us sum] | lect[us es] | lect[us est] | lect[ī sumus] | lect[ī estis] | lect[ī sunt]"
+      - "Pluperfect | lect[us eram] | lect[us erās] | lect[us erat] | lect[ī erāmus] | lect[ī erātis] | lect[ī erant]"
+      - "Future Perfect | lect[us erō] | lect[us eris] | lect[us erit] | lect[ī erimus] | lect[ī eritis] | lect[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | leg[am] | leg[ās] | leg[at] | leg[āmus] | leg[ātis] | leg[ant]"
+      - "Imperfect | leg[erem] | leg[erēs] | leg[eret] | leg[erēmus] | leg[erētis] | leg[erent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | leg[erim] | leg[erīs] | leg[erit] | leg[erīmus] | leg[erītis] | leg[erint]"
+      - "Pluperfect | leg[issem] | leg[issēs] | leg[isset] | leg[issēmus] | leg[issētis] | leg[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | leg[ar] | leg[āris] | leg[ātur] | leg[āmur] | leg[āminī] | leg[antur]"
+      - "Imperfect | leg[erer] | leg[erēris] | leg[erētur] | leg[erēmur] | leg[erēminī] | leg[erentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | lect[us sim] | lect[us sīs] | lect[us sit] | lect[ī sīmus] | lect[ī sītis] | lect[ī sint]"
+      - "Pluperfect | lect[us essem] | lect[us essēs] | lect[us esset] | lect[ī essēmus] | lect[ī essētis] | lect[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | leg[ere] | leg[ī]"
+      - "Future | lect[ūrus esse] | lect[um īrī]"
+      - "Perfect | leg[isse] | lect[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | leg[ēns] | "
+      - "Future | lect[ūrus] | leg[endus]"
+      - "Perfect |  | lect[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | leg[endī] | leg[endō] | leg[endum] | leg[endō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | leg[e] | leg[ere]"
+      - "plural | leg[ite] | leg[iminī]"

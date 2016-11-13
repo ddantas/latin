@@ -1,0 +1,63 @@
+name: gradior
+label: 3rd Conjugation-I Deponent
+updated: 12 November 2016
+example_word: "grad[ior], -grad[ere], grad[ī], gress[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -grad[iō] | -grad[is] | -grad[it] | -grad[imus] | -grad[itis] | -grad[iunt]"
+      - "Imperfect | -grad[iēbam] | -grad[iēbās] | -grad[iēbat] | -grad[iēbāmus] | -grad[iēbātis] | -grad[iēbant]"
+      - "Future | -grad[iam] | -grad[iēs] | -grad[iet] | -grad[iēmus] | -grad[iētis] | -grad[ient]"
+      - "Perfect | -grad[ī] | -grad[istī] | -grad[it] | -grad[imus] | -grad[istis] | -grad[ērunt]"
+      - "Pluperfect | -grad[eram] | -grad[erās] | -grad[erat] | -grad[erāmus] | -grad[erātis] | -grad[erant]"
+      - "Future Perfect | -grad[erō] | -grad[eris] | -grad[erit] | -grad[erimus] | -grad[eritis] | -grad[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | grad[ior] | grad[eris] | grad[itur] | grad[imur] | grad[iminī] | grad[iuntur]"
+      - "Imperfect | grad[iēbar] | grad[iēbāris] | grad[iēbātur] | grad[iēbāmur] | grad[iēbāminī] | grad[iēbantur]"
+      - "Future | grad[iar] | grad[iēris] | grad[iētur] | grad[iēmur] | grad[iēminī] | grad[ientur]"
+      - "Perfect | gress[us sum] | gress[us es] | gress[us est] | gress[ī sumus] | gress[ī estis] | gress[ī sunt]"
+      - "Pluperfect | gress[us eram] | gress[us erās] | gress[us erat] | gress[ī erāmus] | gress[ī erātis] | gress[ī erant]"
+      - "Future Perfect | gress[us erō] | gress[us eris] | gress[us erit] | gress[ī erimus] | gress[ī eritis] | gress[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | -grad[iam] | -grad[iās] | -grad[iat] | -grad[iāmus] | -grad[iātis] | -grad[iant]"
+      - "Imperfect | -grad[erem] | -grad[erēs] | -grad[eret] | -grad[erēmus] | -grad[erētis] | -grad[erent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -grad[erim] | -grad[erīs] | -grad[erit] | -grad[erīmus] | -grad[erītis] | -grad[erint]"
+      - "Pluperfect | -grad[issem] | -grad[issēs] | -grad[isset] | -grad[issēmus] | -grad[issētis] | -grad[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | grad[iar] | grad[iāris] | grad[iātur] | grad[iāmur] | grad[iāminī] | grad[iantur]"
+      - "Imperfect | grad[erer] | grad[erēris] | grad[erētur] | grad[erēmur] | grad[erēminī] | grad[erentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | gress[us sim] | gress[us sīs] | gress[us sit] | gress[ī sīmus] | gress[ī sītis] | gress[ī sint]"
+      - "Pluperfect | gress[us essem] | gress[us essēs] | gress[us esset] | gress[ī essēmus] | gress[ī essētis] | gress[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | grad[ere] | grad[ī]"
+      - "Future | gress[ūrus esse] | gress[um īrī]"
+      - "Perfect | grad[isse] | gress[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | grad[iēns] | "
+      - "Future | gress[ūrus] | grad[iendus]"
+      - "Perfect |  | gress[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | grad[iendī] | grad[iendō] | grad[iendum] | grad[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | grad[e] | grad[ere]"
+      - "plural | grad[ite] | grad[iminī]"

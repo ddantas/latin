@@ -1,0 +1,62 @@
+label: 3rd Conjugation-I
+updated: 11 November 2016
+example_word: rap[iō], rap[ere], rapu[ī], rapt[um]
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present  |  -rap[iō]  |  rap[is]  |  rap[it]  |  rap[imus]  |  rap[itis]  |  rap[iunt]"
+      - "Imperfect  |  rap[iēbam]  |  rap[iēbās]  |  rap[iēbat]  |  rap[iēbāmus]  |  rap[iēbātis]  |  rap[iēbant]"
+      - "Future  |  rap[iam]  |  rap[iēs]  |  rap[iet]  |  rap[iēmus]  |  rap[iētis]  |  rap[ient]"
+      - "Perfect  |  rapu[ī]  |  rapu[istī]  |  rapu[it]  |  rapu[imus]  |  rapu[istis]  |  rapu[ērunt]"
+      - "Pluperfect  |  rapu[eram]  |  rapu[erās]  |  rapu[erat]  |  rapu[erāmus]  |  rapu[erātis]  |  rapu[erant]"
+      - "Future Perfect  |  rapu[erō]  |  rapu[eris]  |  rapu[erit]  |  rapu[erimus]  |  rapu[eritis]  |  rapu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present  |  rap[ior]  |  rap[eris]  |  rap[itur]  |  rap[imur]  |  rap[iminī]  |  rap[iuntur]"
+      - "Imperfect  |  rap[iēbar]  |  rap[iēbāris]  |  rap[iēbātur]  |  rap[iēbāmur]  |  rap[iēbāminī]  |  rap[iēbantur]"
+      - "Future  |  rap[iar]  |  rap[iēris]  |  rap[iētur]  |  rap[iēmur]  |  rap[iēminī]  |  rap[ientur]"
+      - "Perfect  |  rapt[us sum]  |  rapt[us es]  |  rapt[us est]  |  rapt[ī sumus]  |  rapt[ī estis]  |  rapt[ī sunt]"
+      - "Pluperfect  |  rapt[us eram]  |  rapt[us erās]  |  rapt[us erat]  |  rapt[ī erāmus]  |  rapt[ī erātis]  |  rapt[ī erant]"
+      - "Future Perfect  |  rapt[us erō]  |  rapt[us eris]  |  rapt[us erit]  |  rapt[ī erimus]  |  rapt[ī eritis]  |  rapt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present  |  rap[iam]  |  rap[iās]  |  rap[iat]  |  rap[iāmus]  |  rap[iātis]  |  rap[iant]"
+      - "Imperfect  |  rap[erem]  |  rap[erēs]  |  rap[eret]  |  rap[erēmus]  |  rap[erētis]  |  rap[erent]"
+      - "  |   |   |   |   |   |  "
+      - "Perfect  |  rapu[erim]  |  rapu[erīs]  |  rapu[erit]  |  rapu[erīmus]  |  rapu[erītis]  |  rapu[erint]"
+      - "Pluperfect  |  rapu[issem]  |  rapu[issēs]  |  rapu[isset]  |  rapu[issēmus]  |  rapu[issētis]  |  rapu[issent]"
+      - "  |   |   |   |   |   |  "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present  |  rap[iar]  |  rap[iāris]  |  rap[iātur]  |  rap[iāmur]  |  rap[iāminī]  |  rap[iantur]"
+      - "Imperfect  |  rap[erer]  |  rap[erēris]  |  rap[erētur]  |  rap[erēmur]  |  rap[erēminī]  |  rap[erentur]"
+      - "  |   |   |   |   |   |  "
+      - "Perfect  |  rapt[us sim]  |  rapt[us sīs]  |  rapt[us sit]  |  rapt[ī sīmus]  |  rapt[ī sītis]  |  rapt[ī sint]"
+      - "Pluperfect  |  rapt[us essem]  |  rapt[us essēs]  |  rapt[us esset]  |  rapt[ī essēmus]  |  rapt[ī essētis]  |  rapt[ī essent]"
+      - "  |   |   |   |   |   |  "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present  |  rap[ere]  |  rap[ī]"
+      - "Future  |  rapt[ūrus esse]  |  rapt[um īrī]"
+      - "Perfect  |  rapu[isse]  |  rapt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present  |  rap[iēns]  | "
+      - "Future  |  rapt[ūrus]  |  rap[iendus]"
+      - "Perfect  |   |  rapt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  rap[iendī]  |  rap[iendō]  |  rap[iendum]  |  rap[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular  |  rap[e]  |  rap[ere]"
+      - "plural  |  rap[ite]  |  rap[iminī]"

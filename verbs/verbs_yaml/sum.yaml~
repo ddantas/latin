@@ -1,0 +1,62 @@
+label: Irregular - Sum
+updated: 12 November 2016
+example_word: [sum], es[se], fu[ī], fut[uurus]
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | [sum] | [es] | [est] | [sumus] | [estis] | [sunt]"
+      - "Imperfect | [eram] | [eras] | [erat] | [eramus] | [eratis] | [erant]"
+      - "Future | [erō] | [eris] | [erit] | [erimus] | [eritis] | [erunt]"
+      - "Perfect | fu[ī] | fu[istī] | fu[it] | fu[imus] | fu[istis] | fu[ērunt]"
+      - "Pluperfect | fu[eram] | fu[erās] | fu[erat] | fu[erāmus] | fu[erātis] | fu[erant]"
+      - "Future Perfect | fu[erō] | fu[eris] | fu[erit] | fu[erimus] | fu[eritis] | fu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -[or] | -[āris] | -[ātur] | -[āmur] | -[āminī] | -[antur]"
+      - "Imperfect | [ābar] | -[ābāris] | -[ābātur] | -[ābāmur] | -[ābāminī] | -[ābantur]"
+      - "Future | -[ābor] | -[āberis] | -[ābitur] | -[ābimur] | -[ābiminī] | -[ābuntur]"
+      - "Perfect | -fut[us sum] | -fut[us es] | -fut[us est] | -fut[ī sumus] | -fut[ī estis] | -fut[ī sunt]"
+      - "Pluperfect | -fut[us eram] | -fut[us erās] | -fut[us erat] | -fut[ī erāmus] | -fut[ī erātis] | -fut[ī erant]"
+      - "Future Perfect | -fut[us erō] | -fut[us eris] | -fut[us erit] | -fut[ī erimus] | -fut[ī eritis] | -fut[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Imperfect | [sim] | [sis] | [sit] | [sīmus] | [sītis] | [sint]"
+      - "Imperfect | [essem] | [essēs] | [esset] | [essēmus] | [essētis] | [essent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | fu[erim] | fu[erīs] | fu[erit] | fu[erīmus] | fu[erītis] | fu[erint]"
+      - "Pluperfect | fu[issem] | fu[issēs] | fu[isset] | fu[issēmus] | fu[issētis] | fu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | -[er] | -[ēris] | -[ētur] | -[ēmur] | -[ēminī] | -[entur]"
+      - "Imperfect | -[ārer] | -[ārēris] | -[ārētur] | -[ārēmur] | -[ārēminī] | -[ārentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -fut[us sim] | -fut[us sīs] | -fut[us sit] | -fut[ī sīmus] | -fut[ī sītis] | -fut[ī sint]"
+      - "Pluperfect | -fut[us essem] | -fut[us essēs] | -fut[us esset] | -fut[ī essēmus] | -fut[ī essētis] | -fut[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | [se] | -[ārī]"
+      - "Future | fut[ūrus] | -fut[um]"
+      - "Perfect | fu[isse] | -fut[us]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | -[āns] | "
+      - "Future | fut[ūrus] | -[andus]"
+      - "Perfect |  | -fut[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | -[andī] | -[andō] | -[andum] | -[andō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | [] | -[āre]"
+      - "plural | [te] | -[āminī]"

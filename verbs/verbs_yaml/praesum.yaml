@@ -1,0 +1,63 @@
+name: praesum
+label: Anomalous - Sum and derivatives
+updated: 12 November 2016
+example_word: "prae[sum], praees[se], praefu[ī], praefut[urus]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | prae[sum] | prae[es] | prae[est] | prae[sumus] | prae[estis] | prae[sunt]"
+      - "Imperfect | prae[eram] | prae[eras] | prae[erat] | prae[eramus] | prae[eratis] | prae[erant]"
+      - "Future | prae[erō] | prae[eris] | prae[erit] | prae[erimus] | prae[eritis] | prae[erunt]"
+      - "Perfect | praefu[ī] | praefu[istī] | praefu[it] | praefu[imus] | praefu[istis] | praefu[ērunt]"
+      - "Pluperfect | praefu[eram] | praefu[erās] | praefu[erat] | praefu[erāmus] | praefu[erātis] | praefu[erant]"
+      - "Future Perfect | praefu[erō] | praefu[eris] | praefu[erit] | praefu[erimus] | praefu[eritis] | praefu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Imperfect | prae[sim] | prae[sis] | prae[sit] | prae[sīmus] | prae[sītis] | prae[sint]"
+      - "Imperfect | praees[sem] | praees[sēs] | praees[set] | praees[sēmus] | praees[sētis] | praees[sent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | praefu[erim] | praefu[erīs] | praefu[erit] | praefu[erīmus] | praefu[erītis] | praefu[erint]"
+      - "Pluperfect | praefu[issem] | praefu[issēs] | praefu[isset] | praefu[issēmus] | praefu[issētis] | praefu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | praees[se] | "
+      - "Future | praefut[ūrus esse] | "
+      - "Perfect | praefu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present |  | "
+      - "Future | praefut[ūrus] | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | praees[] | "
+      - "plural | praees[te] | "

@@ -1,0 +1,63 @@
+name: nolō
+label: Anomalous - Volo and derivatives
+updated: 12 November 2016
+example_word: "nol[ō], nol[le], nolu[ī], -"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | nol[ō] | non v[is] | non v[it] | nol[umus] | non vul[tis] | nol[unt]"
+      - "Imperfect | nol[ēbam] | nol[ēbās] | nol[ēbat] | nol[ēbāmus] | nol[ēbātis] | nol[ēbant]"
+      - "Future | nol[am] | nol[ēs] | nol[et] | nol[ēmus] | nol[ētis] | nol[ent]"
+      - "Perfect | nolu[ī] | nolu[istī] | nolu[it] | nolu[imus] | nolu[istis] | nolu[ērunt]"
+      - "Pluperfect | nolu[eram] | nolu[erās] | nolu[erat] | nolu[erāmus] | nolu[erātis] | nolu[erant]"
+      - "Future Perfect | nolu[erō] | nolu[eris] | nolu[erit] | nolu[erimus] | nolu[eritis] | nolu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | nol[im] | nol[is] | nol[it] | nol[imus] | nol[itis] | nol[int]"
+      - "Imperfect | nol[lem] | nol[lēs] | nol[let] | nol[lēmus] | nol[lētis] | nol[ent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | nolu[erim] | nolu[erīs] | nolu[erit] | nolu[erīmus] | nolu[erītis] | nolu[erint]"
+      - "Pluperfect | nolu[issem] | nolu[issēs] | nolu[isset] | nolu[issēmus] | nolu[issētis] | nolu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | nol[le] | "
+      - "Future |  | "
+      - "Perfect | nolu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | nol[ens] | "
+      - "Future |  | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | noli | "
+      - "plural | noli[te] | "

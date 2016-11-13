@@ -1,0 +1,63 @@
+name: subsum
+label: Anomalous - Sum and derivatives
+updated: 12 November 2016
+example_word: "sub[sum], subes[se], subfu[ī], subfut[urus]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | sub[sum] | sub[es] | sub[est] | sub[sumus] | sub[estis] | sub[sunt]"
+      - "Imperfect | sub[eram] | sub[eras] | sub[erat] | sub[eramus] | sub[eratis] | sub[erant]"
+      - "Future | sub[erō] | sub[eris] | sub[erit] | sub[erimus] | sub[eritis] | sub[erunt]"
+      - "Perfect | subfu[ī] | subfu[istī] | subfu[it] | subfu[imus] | subfu[istis] | subfu[ērunt]"
+      - "Pluperfect | subfu[eram] | subfu[erās] | subfu[erat] | subfu[erāmus] | subfu[erātis] | subfu[erant]"
+      - "Future Perfect | subfu[erō] | subfu[eris] | subfu[erit] | subfu[erimus] | subfu[eritis] | subfu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Imperfect | sub[sim] | sub[sis] | sub[sit] | sub[sīmus] | sub[sītis] | sub[sint]"
+      - "Imperfect | subes[sem] | subes[sēs] | subes[set] | subes[sēmus] | subes[sētis] | subes[sent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | subfu[erim] | subfu[erīs] | subfu[erit] | subfu[erīmus] | subfu[erītis] | subfu[erint]"
+      - "Pluperfect | subfu[issem] | subfu[issēs] | subfu[isset] | subfu[issēmus] | subfu[issētis] | subfu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | subes[se] | "
+      - "Future | subfut[ūrus esse] | "
+      - "Perfect | subfu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present |  | "
+      - "Future | subfut[ūrus] | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | subes[] | "
+      - "plural | subes[te] | "

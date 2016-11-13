@@ -1,0 +1,62 @@
+label: 3rd Conjugation-I
+updated: 11 November 2016
+example_word: sap[iō], sap[ere], sapi[ī], sapīt[um]
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | sap[iō] | sap[is] | sap[it] | sap[imus] | sap[itis] | sap[iunt]"
+      - "Imperfect | sap[iēbam] | sap[iēbās] | sap[iēbat] | sap[iēbāmus] | sap[iēbātis] | sap[iēbant]"
+      - "Future | sap[iam] | sap[iēs] | sap[iet] | sap[iēmus] | sap[iētis] | sap[ient]"
+      - "Perfect | sapi[ī] | sapi[istī] | sapi[it] | sapi[imus] | sapi[istis] | sapi[ērunt]"
+      - "Pluperfect | sapi[eram] | sapi[erās] | sapi[erat] | sapi[erāmus] | sapi[erātis] | sapi[erant]"
+      - "Future Perfect | sapi[erō] | sapi[eris] | sapi[erit] | sapi[erimus] | sapi[eritis] | sapi[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | sap[ior] | sap[eris] | sap[itur] | sap[imur] | sap[iminī] | sap[iuntur]"
+      - "Imperfect | sap[iēbar] | sap[iēbāris] | sap[iēbātur] | sap[iēbāmur] | sap[iēbāminī] | sap[iēbantur]"
+      - "Future | sap[iar] | sap[iēris] | sap[iētur] | sap[iēmur] | sap[iēminī] | sap[ientur]"
+      - "Perfect | sapīt[us sum] | sapīt[us es] | sapīt[us est] | sapīt[ī sumus] | sapīt[ī estis] | sapīt[ī sunt]"
+      - "Pluperfect | sapīt[us eram] | sapīt[us erās] | sapīt[us erat] | sapīt[ī erāmus] | sapīt[ī erātis] | sapīt[ī erant]"
+      - "Future Perfect | sapīt[us erō] | sapīt[us eris] | sapīt[us erit] | sapīt[ī erimus] | sapīt[ī eritis] | sapīt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | sap[iam] | sap[iās] | sap[iat] | sap[iāmus] | sap[iātis] | sap[iant]"
+      - "Imperfect | sap[erem] | sap[erēs] | sap[eret] | sap[erēmus] | sap[erētis] | sap[erent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | sapi[erim] | sapi[erīs] | sapi[erit] | sapi[erīmus] | sapi[erītis] | sapi[erint]"
+      - "Pluperfect | sapi[issem] | sapi[issēs] | sapi[isset] | sapi[issēmus] | sapi[issētis] | sapi[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | sap[iar] | sap[iāris] | sap[iātur] | sap[iāmur] | sap[iāminī] | sap[iantur]"
+      - "Imperfect | sap[erer] | sap[erēris] | sap[erētur] | sap[erēmur] | sap[erēminī] | sap[erentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | sapīt[us sim] | sapīt[us sīs] | sapīt[us sit] | sapīt[ī sīmus] | sapīt[ī sītis] | sapīt[ī sint]"
+      - "Pluperfect | sapīt[us essem] | sapīt[us essēs] | sapīt[us esset] | sapīt[ī essēmus] | sapīt[ī essētis] | sapīt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | sap[ere] | sap[ī]"
+      - "Future | sapīt[ūrus esse] | sapīt[um īrī]"
+      - "Perfect | sapi[isse] | sapīt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | sap[iēns] | "
+      - "Future | sapīt[ūrus] | sap[iendus]"
+      - "Perfect |  | sapīt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | sap[iendī] | sap[iendō] | sap[iendum] | sap[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | sap[e] | sap[ere]"
+      - "plural | sap[ite] | sap[iminī]"

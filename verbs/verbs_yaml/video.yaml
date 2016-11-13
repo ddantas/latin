@@ -1,0 +1,63 @@
+name: videō
+label: 2nd Conjugation
+updated: 12 November 2016
+example_word: "vid[eō], vid[ēre], vid[ī], vis[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | vid[eō] | vid[ēs] | vid[et] | vid[ēmus] | vid[ētis] | vid[ent]"
+      - "Imperfect | vid[ēbam] | vid[ēbās] | vid[ēbat] | vid[ēbāmus] | vid[ēbātis] | vid[ēbant]"
+      - "Future | vid[ēbō] | vid[ēbis] | vid[ēbit] | vid[ēbimus] | vid[ēbitis] | vid[ēbunt]"
+      - "Perfect | vid[ī] | vid[istī] | vid[it] | vid[imus] | vid[istis] | vid[ērunt]"
+      - "Pluperfect | vid[eram] | vid[erās] | vid[erat] | vid[erāmus] | vid[erātis] | vid[erant]"
+      - "Future Perfect | vid[erō] | vid[eris] | vid[erit] | vid[erimus] | vid[eritis] | vid[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | vid[eor] | vid[ēris] | vid[ētur] | vid[ēmur] | vid[ēminī] | vid[entur]"
+      - "Imperfect | vid[ēbar] | vid[ēbāris] | vid[ēbātur] | vid[ēbāmur] | vid[ēbāminī] | vid[ēbantur]"
+      - "Future | vid[ēbor] | vid[ēberis] | vid[ēbitur] | vid[ēbimur] | vid[ēbiminī] | vid[ēbuntur]"
+      - "Perfect | vis[us sum] | vis[us es] | vis[us est] | vis[ī sumus] | vis[ī estis] | vis[ī sunt]"
+      - "Pluperfect | vis[us eram] | vis[us erās] | vis[us erat] | vis[ī erāmus] | vis[ī erātis] | vis[ī erant]"
+      - "Future Perfect | vis[us erō] | vis[us eris] | vis[us erit] | vis[ī erimus] | vis[ī eritis] | vis[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | vid[eam] | vid[eās] | vid[eat] | vid[eāmus] | vid[eātis] | vid[eant]"
+      - "Imperfect | vid[ērem] | vid[ērēs] | vid[ēret] | vid[ērēmus] | vid[ērētis] | vid[ērent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | vid[erim] | vid[erīs] | vid[erit] | vid[erīmus] | vid[erītis] | vid[erint]"
+      - "Pluperfect | vid[issem] | vid[issēs] | vid[isset] | vid[issēmus] | vid[issētis] | vid[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | vid[ear] | vid[eāris] | vid[eātur] | vid[eāmur] | vid[eāminī] | vid[eantur]"
+      - "Imperfect | vid[ērer] | vid[ērēris] | vid[ērētur] | vid[ērēmur] | vid[ērēminī] | vid[ērentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | vis[us sim] | vis[us sīs] | vis[us sit] | vis[ī sīmus] | vis[ī sītis] | vis[ī sint]"
+      - "Pluperfect | vis[us essem] | vis[us essēs] | vis[us esset] | vis[ī essēmus] | vis[ī essētis] | vis[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | vid[ēre] | vid[ērī]"
+      - "Future | vis[ūrus esse] | vis[um īrī]"
+      - "Perfect | vid[isse] | vis[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | vid[ēns] | "
+      - "Future | vis[ūrus] | vid[andus]"
+      - "Perfect |  | vis[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | vid[andī] | vid[andō] | vid[andum] | vid[andō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | vid[ē] | vid[ēre]"
+      - "plural | vid[ēte] | vid[ēminī]"

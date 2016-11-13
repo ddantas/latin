@@ -1,0 +1,63 @@
+name: fodiō
+label: 3rd Conjugation-I
+updated: 12 November 2016
+example_word: "fod[iō], fod[ere], fōd[ī], foss[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | fod[iō] | fod[is] | fod[it] | fod[imus] | fod[itis] | fod[iunt]"
+      - "Imperfect | fod[iēbam] | fod[iēbās] | fod[iēbat] | fod[iēbāmus] | fod[iēbātis] | fod[iēbant]"
+      - "Future | fod[iam] | fod[iēs] | fod[iet] | fod[iēmus] | fod[iētis] | fod[ient]"
+      - "Perfect | fōd[ī] | fōd[istī] | fōd[it] | fōd[imus] | fōd[istis] | fōd[ērunt]"
+      - "Pluperfect | fōd[eram] | fōd[erās] | fōd[erat] | fōd[erāmus] | fōd[erātis] | fōd[erant]"
+      - "Future Perfect | fōd[erō] | fōd[eris] | fōd[erit] | fōd[erimus] | fōd[eritis] | fōd[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | fod[ior] | fod[eris] | fod[itur] | fod[imur] | fod[iminī] | fod[iuntur]"
+      - "Imperfect | fod[iēbar] | fod[iēbāris] | fod[iēbātur] | fod[iēbāmur] | fod[iēbāminī] | fod[iēbantur]"
+      - "Future | fod[iar] | fod[iēris] | fod[iētur] | fod[iēmur] | fod[iēminī] | fod[ientur]"
+      - "Perfect | foss[us sum] | foss[us es] | foss[us est] | foss[ī sumus] | foss[ī estis] | foss[ī sunt]"
+      - "Pluperfect | foss[us eram] | foss[us erās] | foss[us erat] | foss[ī erāmus] | foss[ī erātis] | foss[ī erant]"
+      - "Future Perfect | foss[us erō] | foss[us eris] | foss[us erit] | foss[ī erimus] | foss[ī eritis] | foss[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | fod[iam] | fod[iās] | fod[iat] | fod[iāmus] | fod[iātis] | fod[iant]"
+      - "Imperfect | fod[erem] | fod[erēs] | fod[eret] | fod[erēmus] | fod[erētis] | fod[erent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | fōd[erim] | fōd[erīs] | fōd[erit] | fōd[erīmus] | fōd[erītis] | fōd[erint]"
+      - "Pluperfect | fōd[issem] | fōd[issēs] | fōd[isset] | fōd[issēmus] | fōd[issētis] | fōd[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | fod[iar] | fod[iāris] | fod[iātur] | fod[iāmur] | fod[iāminī] | fod[iantur]"
+      - "Imperfect | fod[erer] | fod[erēris] | fod[erētur] | fod[erēmur] | fod[erēminī] | fod[erentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | foss[us sim] | foss[us sīs] | foss[us sit] | foss[ī sīmus] | foss[ī sītis] | foss[ī sint]"
+      - "Pluperfect | foss[us essem] | foss[us essēs] | foss[us esset] | foss[ī essēmus] | foss[ī essētis] | foss[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | fod[ere] | fod[ī]"
+      - "Future | foss[ūrus esse] | foss[um īrī]"
+      - "Perfect | fōd[isse] | foss[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | fod[iēns] | "
+      - "Future | foss[ūrus] | fod[iendus]"
+      - "Perfect |  | foss[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | fod[iendī] | fod[iendō] | fod[iendum] | fod[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | fod[e] | fod[ere]"
+      - "plural | fod[ite] | fod[iminī]"

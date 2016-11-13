@@ -1,0 +1,63 @@
+name: prosum
+label: Anomalous - Sum and derivatives
+updated: 12 November 2016
+example_word: "pro[sum], prodes[se], profu[ī], profut[urus]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | pro[sum] | prod[es] | prod[est] | pro[sumus] | prod[estis] | pro[sunt]"
+      - "Imperfect | prod[eram] | prod[eras] | prod[erat] | prod[eramus] | prod[eratis] | prod[erant]"
+      - "Future | prod[erō] | prod[eris] | prod[erit] | prod[erimus] | prod[eritis] | prod[erunt]"
+      - "Perfect | profu[ī] | profu[istī] | profu[it] | profu[imus] | profu[istis] | profu[ērunt]"
+      - "Pluperfect | profu[eram] | profu[erās] | profu[erat] | profu[erāmus] | profu[erātis] | profu[erant]"
+      - "Future Perfect | profu[erō] | profu[eris] | profu[erit] | profu[erimus] | profu[eritis] | profu[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Imperfect | pro[sim] | pro[sis] | pro[sit] | pro[sīmus] | pro[sītis] | pro[sint]"
+      - "Imperfect | prodes[sem] | prodes[sēs] | prodes[set] | prodes[sēmus] | prodes[sētis] | prodes[sent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | profu[erim] | profu[erīs] | profu[erit] | profu[erīmus] | profu[erītis] | profu[erint]"
+      - "Pluperfect | profu[issem] | profu[issēs] | profu[isset] | profu[issēmus] | profu[issētis] | profu[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | prodes[se] | "
+      - "Future | profut[ūrus esse] | "
+      - "Perfect | profu[isse] | "
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present |  | "
+      - "Future | profut[ūrus] | "
+      - "Perfect |  | "
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " |  |  |  | "
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | prodes[] | "
+      - "plural | prodes[te] | "
