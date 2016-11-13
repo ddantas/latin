@@ -1,6 +1,7 @@
 absum
 adsum
 allicio
+ambio
 amo
 aspicio
 audio
@@ -15,7 +16,9 @@ insum
 intersum
 jacio
 lego
+malo
 morior
+nolo
 obsum
 pario
 patior
@@ -29,3 +32,4 @@ subsum
 sum
 supersum
 video
+volo

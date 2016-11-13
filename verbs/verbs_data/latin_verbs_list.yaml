@@ -44,7 +44,7 @@ malo:      &MALO     {pres: "mal[ō]",     inf: "mal[le]",    perf: "malu[ī]", 
 malle:     *MALO
 
 
-# Ā Ē Ī ō ū
+# ā ē ī ō ū
 # Verbs in 3rd Conjugation-i
 allicio:  &ALLICIO {pres: "allic[iō]", inf: "allic[ere]", perf: "allēx[ī]", sup: "alect[um]",   paradigm: CONJ3I }
 allicere: *ALLICIO
@@ -74,5 +74,10 @@ gradior:  &GRADIOR {pres: "grad[ior]", inf: "-grad[ere]", perf: "grad[ī]",  sup
 gradere:  *GRADIOR 
 patior:   &PATIOR  {pres: "pat[ior]",  inf: "-pat[ere]",  perf: "pat[ī]",   sup: "pass[um]",    paradigm: "CONJ3I|DEPO3I" }
 patere:   *PATIOR 
+
+# ā ē ī ō ū
+# Verbs in 4th Conjugation
+ambio:  &AMBIO  {pres: "amb[iō]",   inf: "amb[īre]",   perf: "ambīv[ī]", sup: "ambīt[um]",   paradigm: CONJ4  }
+ambire: *AMBIO
 
 
