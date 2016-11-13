@@ -1,12 +1,12 @@
 name: nolō
 label: Anomalous - Volo and derivatives
-updated: 12 November 2016
+updated: 13 November 2016
 example_word: "nol[ō], nol[le], nolu[ī], -"
 left:
   - title: Active Indicative
     fill: "#cb202c"
     groups:
-      - "Present | nol[ō] | non v[is] | non v[it] | nol[umus] | non vul[tis] | nol[unt]"
+      - "Present | nol[ō] | non v[is] | non v[ult] | nol[umus] | non vul[tis] | nol[unt]"
       - "Imperfect | nol[ēbam] | nol[ēbās] | nol[ēbat] | nol[ēbāmus] | nol[ēbātis] | nol[ēbant]"
       - "Future | nol[am] | nol[ēs] | nol[et] | nol[ēmus] | nol[ētis] | nol[ent]"
       - "Perfect | nolu[ī] | nolu[istī] | nolu[it] | nolu[imus] | nolu[istis] | nolu[ērunt]"

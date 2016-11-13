@@ -1,6 +1,6 @@
 name: supersum
 label: Anomalous - Sum and derivatives
-updated: 12 November 2016
+updated: 13 November 2016
 example_word: "super[sum], superes[se], superfu[ī], superfut[urus]"
 left:
   - title: Active Indicative
@@ -24,7 +24,7 @@ left:
   - title: Active Subjunctive
     fill: "#2075cb"
     groups:
-      - "Imperfect | super[sim] | super[sis] | super[sit] | super[sīmus] | super[sītis] | super[sint]"
+      - "Present | super[sim] | super[sis] | super[sit] | super[sīmus] | super[sītis] | super[sint]"
       - "Imperfect | superes[sem] | superes[sēs] | superes[set] | superes[sēmus] | superes[sētis] | superes[sent]"
       - " |  |  |  |  |  | "
       - "Perfect | superfu[erim] | superfu[erīs] | superfu[erit] | superfu[erīmus] | superfu[erītis] | superfu[erint]"

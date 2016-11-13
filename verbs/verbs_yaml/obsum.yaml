@@ -1,6 +1,6 @@
 name: obsum
 label: Anomalous - Sum and derivatives
-updated: 12 November 2016
+updated: 13 November 2016
 example_word: "ob[sum], obes[se], obfu[ī], obfut[urus]"
 left:
   - title: Active Indicative
@@ -24,7 +24,7 @@ left:
   - title: Active Subjunctive
     fill: "#2075cb"
     groups:
-      - "Imperfect | ob[sim] | ob[sis] | ob[sit] | ob[sīmus] | ob[sītis] | ob[sint]"
+      - "Present | ob[sim] | ob[sis] | ob[sit] | ob[sīmus] | ob[sītis] | ob[sint]"
       - "Imperfect | obes[sem] | obes[sēs] | obes[set] | obes[sēmus] | obes[sētis] | obes[sent]"
       - " |  |  |  |  |  | "
       - "Perfect | obfu[erim] | obfu[erīs] | obfu[erit] | obfu[erīmus] | obfu[erītis] | obfu[erint]"

@@ -1,6 +1,6 @@
 name: adsum
 label: Anomalous - Sum and derivatives
-updated: 12 November 2016
+updated: 13 November 2016
 example_word: "ad[sum], ades[se], adfu[ī], adfut[urus]"
 left:
   - title: Active Indicative
@@ -24,7 +24,7 @@ left:
   - title: Active Subjunctive
     fill: "#2075cb"
     groups:
-      - "Imperfect | ad[sim] | ad[sis] | ad[sit] | ad[sīmus] | ad[sītis] | ad[sint]"
+      - "Present | ad[sim] | ad[sis] | ad[sit] | ad[sīmus] | ad[sītis] | ad[sint]"
       - "Imperfect | ades[sem] | ades[sēs] | ades[set] | ades[sēmus] | ades[sētis] | ades[sent]"
       - " |  |  |  |  |  | "
       - "Perfect | adfu[erim] | adfu[erīs] | adfu[erit] | adfu[erīmus] | adfu[erītis] | adfu[erint]"

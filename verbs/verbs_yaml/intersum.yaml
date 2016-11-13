@@ -1,6 +1,6 @@
 name: intersum
 label: Anomalous - Sum and derivatives
-updated: 12 November 2016
+updated: 13 November 2016
 example_word: "inter[sum], interes[se], interfu[ī], interfut[urus]"
 left:
   - title: Active Indicative
@@ -24,7 +24,7 @@ left:
   - title: Active Subjunctive
     fill: "#2075cb"
     groups:
-      - "Imperfect | inter[sim] | inter[sis] | inter[sit] | inter[sīmus] | inter[sītis] | inter[sint]"
+      - "Present | inter[sim] | inter[sis] | inter[sit] | inter[sīmus] | inter[sītis] | inter[sint]"
       - "Imperfect | interes[sem] | interes[sēs] | interes[set] | interes[sēmus] | interes[sētis] | interes[sent]"
       - " |  |  |  |  |  | "
       - "Perfect | interfu[erim] | interfu[erīs] | interfu[erit] | interfu[erīmus] | interfu[erītis] | interfu[erint]"

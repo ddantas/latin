@@ -1,6 +1,6 @@
 name: sum
 label: Anomalous - Sum and derivatives
-updated: 12 November 2016
+updated: 13 November 2016
 example_word: "[sum], es[se], fu[ī], fut[urus]"
 left:
   - title: Active Indicative
@@ -24,7 +24,7 @@ left:
   - title: Active Subjunctive
     fill: "#2075cb"
     groups:
-      - "Imperfect | [sim] | [sis] | [sit] | [sīmus] | [sītis] | [sint]"
+      - "Present | [sim] | [sis] | [sit] | [sīmus] | [sītis] | [sint]"
       - "Imperfect | es[sem] | es[sēs] | es[set] | es[sēmus] | es[sētis] | es[sent]"
       - " |  |  |  |  |  | "
       - "Perfect | fu[erim] | fu[erīs] | fu[erit] | fu[erīmus] | fu[erītis] | fu[erint]"

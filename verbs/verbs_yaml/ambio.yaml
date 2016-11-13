@@ -1,0 +1,63 @@
+name: ambiō
+label: 4th Conjugation
+updated: 13 November 2016
+example_word: "amb[iō], amb[īre], ambīv[ī], ambīt[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | amb[iō] | amb[īs] | amb[it] | amb[īmus] | amb[ītis] | amb[iunt]"
+      - "Imperfect | amb[iēbam] | amb[iēbās] | amb[iēbat] | amb[iēbāmus] | amb[iēbātis] | amb[iēbant]"
+      - "Future | amb[iam] | amb[iēs] | amb[iet] | amb[iēmus] | amb[iētis] | amb[ient]"
+      - "Perfect | ambīv[ī] | ambīv[istī] | ambīv[it] | ambīv[imus] | ambīv[istis] | ambīv[ērunt]"
+      - "Pluperfect | ambīv[eram] | ambīv[erās] | ambīv[erat] | ambīv[erāmus] | ambīv[erātis] | ambīv[erant]"
+      - "Future Perfect | ambīv[erō] | ambīv[eris] | ambīv[erit] | ambīv[erimus] | ambīv[eritis] | ambīv[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | amb[ior] | amb[īris] | amb[ītur] | amb[īmur] | amb[īminī] | amb[iuntur]"
+      - "Imperfect | amb[iēbar] | amb[iēbāris] | amb[iēbātur] | amb[iēbāmur] | amb[iēbāminī] | amb[iēbantur]"
+      - "Future | amb[iar] | amb[iēris] | amb[iētur] | amb[iēmur] | amb[iēminī] | amb[ientur]"
+      - "Perfect | ambīt[us sum] | ambīt[us es] | ambīt[us est] | ambīt[ī sumus] | ambīt[ī estis] | ambīt[ī sunt]"
+      - "Pluperfect | ambīt[us eram] | ambīt[us erās] | ambīt[us erat] | ambīt[ī erāmus] | ambīt[ī erātis] | ambīt[ī erant]"
+      - "Future Perfect | ambīt[us erō] | ambīt[us eris] | ambīt[us erit] | ambīt[ī erimus] | ambīt[ī eritis] | ambīt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | amb[iam] | amb[iās] | amb[iat] | amb[iāmus] | amb[iātis] | amb[iant]"
+      - "Imperfect | amb[īrem] | amb[īrēs] | amb[īret] | amb[īrēmus] | amb[īrētis] | amb[īrent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | ambīv[erim] | ambīv[erīs] | ambīv[erit] | ambīv[erīmus] | ambīv[erītis] | ambīv[erint]"
+      - "Pluperfect | ambīv[issem] | ambīv[issēs] | ambīv[isset] | ambīv[issēmus] | ambīv[issētis] | ambīv[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | amb[iar] | amb[iāris] | amb[iātur] | amb[iāmur] | amb[iāminī] | amb[iantur]"
+      - "Imperfect | amb[īrer] | amb[īrēris] | amb[īrētur] | amb[īrēmur] | amb[īrēminī] | amb[īrentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | ambīt[us sim] | ambīt[us sīs] | ambīt[us sit] | ambīt[ī sīmus] | ambīt[ī sītis] | ambīt[ī sint]"
+      - "Pluperfect | ambīt[us essem] | ambīt[us essēs] | ambīt[us esset] | ambīt[ī essēmus] | ambīt[ī essētis] | ambīt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | amb[īre] | amb[īrī]"
+      - "Future | ambīt[ūrus esse] | ambīt[um īrī]"
+      - "Perfect | ambīv[isse] | ambīt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | amb[iēns] | "
+      - "Future | ambīt[ūrus] | amb[iendus]"
+      - "Perfect |  | ambīt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | amb[iendī] | amb[iendō] | amb[iendum] | amb[iendō]"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | amb[ī] | amb[īre]"
+      - "plural | amb[īte] | amb[īminī]"

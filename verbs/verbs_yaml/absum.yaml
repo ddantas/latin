@@ -1,6 +1,6 @@
 name: absum
 label: Anomalous - Sum and derivatives
-updated: 12 November 2016
+updated: 13 November 2016
 example_word: "ab[sum], abes[se], abfu[ī], abfut[urus]"
 left:
   - title: Active Indicative
@@ -24,7 +24,7 @@ left:
   - title: Active Subjunctive
     fill: "#2075cb"
     groups:
-      - "Imperfect | ab[sim] | ab[sis] | ab[sit] | ab[sīmus] | ab[sītis] | ab[sint]"
+      - "Present | ab[sim] | ab[sis] | ab[sit] | ab[sīmus] | ab[sītis] | ab[sint]"
       - "Imperfect | abes[sem] | abes[sēs] | abes[set] | abes[sēmus] | abes[sētis] | abes[sent]"
       - " |  |  |  |  |  | "
       - "Perfect | abfu[erim] | abfu[erīs] | abfu[erit] | abfu[erīmus] | abfu[erītis] | abfu[erint]"

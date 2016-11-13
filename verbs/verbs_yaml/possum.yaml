@@ -1,6 +1,6 @@
 name: possum
 label: Anomalous - Sum and derivatives
-updated: 12 November 2016
+updated: 13 November 2016
 example_word: "pos[sum], pos[se], potu[ī], -"
 left:
   - title: Active Indicative
@@ -24,7 +24,7 @@ left:
   - title: Active Subjunctive
     fill: "#2075cb"
     groups:
-      - "Imperfect | pos[sim] | pos[sis] | pos[sit] | pos[sīmus] | pos[sītis] | pos[sint]"
+      - "Present | pos[sim] | pos[sis] | pos[sit] | pos[sīmus] | pos[sītis] | pos[sint]"
       - "Imperfect | pos[sem] | pos[sēs] | pos[set] | pos[sēmus] | pos[sētis] | pos[sent]"
       - " |  |  |  |  |  | "
       - "Perfect | potu[erim] | potu[erīs] | potu[erit] | potu[erīmus] | potu[erītis] | potu[erint]"

@@ -1,6 +1,6 @@
 name: insum
 label: Anomalous - Sum and derivatives
-updated: 12 November 2016
+updated: 13 November 2016
 example_word: "in[sum], ines[se], infu[ī], infut[urus]"
 left:
   - title: Active Indicative
@@ -24,7 +24,7 @@ left:
   - title: Active Subjunctive
     fill: "#2075cb"
     groups:
-      - "Imperfect | in[sim] | in[sis] | in[sit] | in[sīmus] | in[sītis] | in[sint]"
+      - "Present | in[sim] | in[sis] | in[sit] | in[sīmus] | in[sītis] | in[sint]"
       - "Imperfect | ines[sem] | ines[sēs] | ines[set] | ines[sēmus] | ines[sētis] | ines[sent]"
       - " |  |  |  |  |  | "
       - "Perfect | infu[erim] | infu[erīs] | infu[erit] | infu[erīmus] | infu[erītis] | infu[erint]"

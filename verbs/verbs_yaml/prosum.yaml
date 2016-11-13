@@ -1,6 +1,6 @@
 name: prosum
 label: Anomalous - Sum and derivatives
-updated: 12 November 2016
+updated: 13 November 2016
 example_word: "pro[sum], prodes[se], profu[ī], profut[urus]"
 left:
   - title: Active Indicative
@@ -24,7 +24,7 @@ left:
   - title: Active Subjunctive
     fill: "#2075cb"
     groups:
-      - "Imperfect | pro[sim] | pro[sis] | pro[sit] | pro[sīmus] | pro[sītis] | pro[sint]"
+      - "Present | pro[sim] | pro[sis] | pro[sit] | pro[sīmus] | pro[sītis] | pro[sint]"
       - "Imperfect | prodes[sem] | prodes[sēs] | prodes[set] | prodes[sēmus] | prodes[sētis] | prodes[sent]"
       - " |  |  |  |  |  | "
       - "Perfect | profu[erim] | profu[erīs] | profu[erit] | profu[erīmus] | profu[erītis] | profu[erint]"

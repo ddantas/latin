@@ -1,6 +1,6 @@
 name: subsum
 label: Anomalous - Sum and derivatives
-updated: 12 November 2016
+updated: 13 November 2016
 example_word: "sub[sum], subes[se], subfu[ī], subfut[urus]"
 left:
   - title: Active Indicative
@@ -24,7 +24,7 @@ left:
   - title: Active Subjunctive
     fill: "#2075cb"
     groups:
-      - "Imperfect | sub[sim] | sub[sis] | sub[sit] | sub[sīmus] | sub[sītis] | sub[sint]"
+      - "Present | sub[sim] | sub[sis] | sub[sit] | sub[sīmus] | sub[sītis] | sub[sint]"
       - "Imperfect | subes[sem] | subes[sēs] | subes[set] | subes[sēmus] | subes[sētis] | subes[sent]"
       - " |  |  |  |  |  | "
       - "Perfect | subfu[erim] | subfu[erīs] | subfu[erit] | subfu[erīmus] | subfu[erītis] | subfu[erint]"

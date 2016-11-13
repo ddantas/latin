@@ -1,6 +1,6 @@
 name: praesum
 label: Anomalous - Sum and derivatives
-updated: 12 November 2016
+updated: 13 November 2016
 example_word: "prae[sum], praees[se], praefu[ī], praefut[urus]"
 left:
   - title: Active Indicative
@@ -24,7 +24,7 @@ left:
   - title: Active Subjunctive
     fill: "#2075cb"
     groups:
-      - "Imperfect | prae[sim] | prae[sis] | prae[sit] | prae[sīmus] | prae[sītis] | prae[sint]"
+      - "Present | prae[sim] | prae[sis] | prae[sit] | prae[sīmus] | prae[sītis] | prae[sint]"
       - "Imperfect | praees[sem] | praees[sēs] | praees[set] | praees[sēmus] | praees[sētis] | praees[sent]"
       - " |  |  |  |  |  | "
       - "Perfect | praefu[erim] | praefu[erīs] | praefu[erit] | praefu[erīmus] | praefu[erītis] | praefu[erint]"

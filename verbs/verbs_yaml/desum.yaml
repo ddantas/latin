@@ -1,6 +1,6 @@
 name: desum
 label: Anomalous - Sum and derivatives
-updated: 12 November 2016
+updated: 13 November 2016
 example_word: "de[sum], dees[se], defu[ī], defut[urus]"
 left:
   - title: Active Indicative
@@ -24,7 +24,7 @@ left:
   - title: Active Subjunctive
     fill: "#2075cb"
     groups:
-      - "Imperfect | de[sim] | de[sis] | de[sit] | de[sīmus] | de[sītis] | de[sint]"
+      - "Present | de[sim] | de[sis] | de[sit] | de[sīmus] | de[sītis] | de[sint]"
       - "Imperfect | dees[sem] | dees[sēs] | dees[set] | dees[sēmus] | dees[sētis] | dees[sent]"
       - " |  |  |  |  |  | "
       - "Perfect | defu[erim] | defu[erīs] | defu[erit] | defu[erīmus] | defu[erītis] | defu[erint]"
