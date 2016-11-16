@@ -1,17 +1,17 @@
 name: abeo
 label: Anomalous - Eo and derivatives
 updated: 16 November 2016
-example_word: "ab[eo], ab[īre], abīv[ī], abīt[um]"
+example_word: "ab[eo], ab[īre], abī[ī], abīt[um]"
 left:
   - title: Active Indicative
     fill: "#cb202c"
     groups:
       - "Present | ab[eō]* | ab[īs] | ab[it] | ab[īmus] | ab[ītis] | ab[eunt]*"
-      - "Imperfect | ab[ībam]* | ab[ībās]* | ab[ībat]* | ab[ībāmus]* | ab[ībātis]* | ab[ībant]"
+      - "Imperfect | ab[ībam]* | ab[ībās]* | ab[ībat]* | ab[ībāmus]* | ab[ībātis]* | ab[ībant]*"
       - "Future | ab[ībō]* | ab[ībis]* | ab[ībit]* | ab[ībimus]* | ab[ībitis]* | ab[ībunt]*"
-      - "Perfect | abīv[ī] | abīv[istī] | abīv[it] | abīv[imus] | abīv[istis] | abīv[ērunt]"
-      - "Pluperfect | abīv[eram] | abīv[erās] | abīv[erat] | abīv[erāmus] | abīv[erātis] | abīv[erant]"
-      - "Future Perfect | abīv[erō] | abīv[eris] | abīv[erit] | abīv[erimus] | abīv[eritis] | abīv[erint]"
+      - "Perfect | abī[ī] | abī[istī] | abī[it] | abī[imus] | abī[istis] | abī[ērunt]"
+      - "Pluperfect | abī[eram] | abī[erās] | abī[erat] | abī[erāmus] | abī[erātis] | abī[erant]"
+      - "Future Perfect | abī[erō] | abī[eris] | abī[erit] | abī[erimus] | abī[eritis] | abī[erint]"
   - title: Passive Indicative
     fill: "#cb202c"
     groups:
@@ -27,8 +27,8 @@ left:
       - "Present | ab[eam]* | ab[eās]* | ab[eat]* | ab[eāmus]* | ab[eātis]* | ab[eant]*"
       - "Imperfect | ab[īrem] | ab[īrēs] | ab[īret] | ab[īrēmus] | ab[īrētis] | ab[īrent]"
       - " |  |  |  |  |  | "
-      - "Perfect | abīvi[erim]* | abīvi[erīs]* | abīvi[erit]* | abīvi[erīmus]* | abīvi[erītis]* | abīvi[erint]*"
-      - "Pluperfect | abīv[issem] | abīv[issēs] | abīv[isset] | abīv[issēmus] | abīv[issētis] | abīv[issent]"
+      - "Perfect | abī[erim]* | abī[erīs]* | abī[erit]* | abī[erīmus]* | abī[erītis]* | abī[erint]*"
+      - "Pluperfect | abī[issem] | abī[issēs] | abī[isset] | abī[issēmus] | abī[issētis] | abī[issent]"
       - " |  |  |  |  |  | "
   - title: Passive Subjunctive
     fill: "#2075cb"
@@ -45,7 +45,7 @@ right:
     groups:
       - "Present | ab[īre] | ab[īrī]"
       - "Future | abīt[ūrus esse] | -abīt[um īrī]"
-      - "Perfect | abīv[isse] | abīt[us esse]"
+      - "Perfect | abī[isse] | abīt[us esse]"
   - title: Participle
     fill: "#b2640a"
     groups:

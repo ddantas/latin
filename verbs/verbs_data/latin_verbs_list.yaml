@@ -46,7 +46,7 @@ malle:     *MALO
 # Anomalous - Eo
 eo:        &EO       {pres: "[eo]",       inf: "[īre]",      perf: "īv[ī]",      sup: "īt[um]",         paradigm: CONJEO  }
 ire:       *EO
-abeo:      &ABEO     {pres: "ab[eo]",     inf: "ab[īre]",    perf: "abīv[ī]",    sup: "abīt[um]",       paradigm: CONJEO|CONJABEO  }
+abeo:      &ABEO     {pres: "ab[eo]",     inf: "ab[īre]",    perf: "abī[ī]",    sup: "abīt[um]",       paradigm: CONJEO|CONJABEO  }
 abire:     *ABEO
 
 

@@ -580,6 +580,10 @@ CONJABEO:
       - "Pluperfect | -RSUP[us eram] | -RSUP[us erās] | -RSUP[us erat] | -RSUP[ī erāmus] | -RSUP[ī erātis] | -RSUP[ī erant]"
       - "Future Perfect | -RSUP[us erō] | -RSUP[us eris] | -RSUP[us erit] | -RSUP[ī erimus] | -RSUP[ī eritis] | -RSUP[ī erunt]"
 
+  - mood: Active Subjunctive
+    groups:
+      - "Perfect | RPERF[erim]* | RPERF[erīs]* | RPERF[erit]* | RPERF[erīmus]* | RPERF[erītis]* | RPERF[erint]*"
+
   - mood: Passive Subjunctive
     groups:
       - "Present | | | -RPRES[eātur]* | | | "
