@@ -43,6 +43,12 @@ nolle:     *NOLO
 malo:      &MALO     {pres: "mal[ō]",     inf: "mal[le]",    perf: "malu[ī]",    sup: "-",              paradigm: CONJVOLO|CONJMALO  }
 malle:     *MALO
 
+# Anomalous - Eo
+eo:        &EO       {pres: "[eo]",       inf: "[īre]",      perf: "īv[ī]",      sup: "īt[um]",         paradigm: CONJEO  }
+ire:       *EO
+abeo:      &ABEO     {pres: "ab[eo]",     inf: "ab[īre]",    perf: "abīv[ī]",    sup: "abīt[um]",       paradigm: CONJEO|CONJABEO  }
+abire:     *ABEO
+
 
 # ā ē ī ō ū
 # Verbs in 3rd Conjugation-i

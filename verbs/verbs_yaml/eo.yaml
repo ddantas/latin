@@ -1,0 +1,63 @@
+name: eo
+label: Anomalous - Eo and derivatives
+updated: 16 November 2016
+example_word: "[eo], [īre], īv[ī], īt[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | [eō]* | [īs] | [it] | [īmus] | [ītis] | [eunt]*"
+      - "Imperfect | [ībam]* | [ībās]* | [ībat]* | [ībāmus]* | [ībātis]* | [ībant]"
+      - "Future | [ībō]* | [ībis]* | [ībit]* | [ībimus]* | [ībitis]* | [ībunt]*"
+      - "Perfect | īv[ī] | īv[istī] | īv[it] | īv[imus] | īv[istis] | īv[ērunt]"
+      - "Pluperfect | īv[eram] | īv[erās] | īv[erat] | īv[erāmus] | īv[erātis] | īv[erant]"
+      - "Future Perfect | īv[erō] | īv[eris] | īv[erit] | īv[erimus] | īv[eritis] | īv[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -[ior] | -[īris] | [ītur] | -[īmur] | -[īminī] | -[iuntur]"
+      - "Imperfect |  |  | [ībātur]* |  |  | "
+      - "Future |  |  | [ībitur]* |  |  | "
+      - "Perfect | -īt[us sum] | -īt[us es] | īt[us est] | -īt[ī sumus] | -īt[ī estis] | -īt[ī sunt]"
+      - "Pluperfect | -īt[us eram] | -īt[us erās] | īt[us erat] | -īt[ī erāmus] | -īt[ī erātis] | -īt[ī erant]"
+      - "Future Perfect | -īt[us erō] | -īt[us eris] | īt[us erit] | -īt[ī erimus] | -īt[ī eritis] | -īt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | [eam]* | [eās]* | [eat]* | [eāmus]* | [eātis]* | [eant]*"
+      - "Imperfect | [īrem] | [īrēs] | [īret] | [īrēmus] | [īrētis] | [īrent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | īvi[erim]* | īvi[erīs]* | īvi[erit]* | īvi[erīmus]* | īvi[erītis]* | īvi[erint]*"
+      - "Pluperfect | īv[issem] | īv[issēs] | īv[isset] | īv[issēmus] | īv[issētis] | īv[issent]"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present |  |  | [eātur]* |  |  | "
+      - "Imperfect | -[īrer] | -[īrēris] | [īrētur] | -[īrēmur] | -[īrēminī] | -[īrentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -īt[us sim] | -īt[us sīs] | īt[us sit] | -īt[ī sīmus] | -īt[ī sītis] | -īt[ī sint]"
+      - "Pluperfect | -īt[us essem] | -īt[us essēs] | īt[us esset] | -īt[ī essēmus] | -īt[ī essētis] | -īt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | [īre] | [īrī]"
+      - "Future | īt[ūrus esse] | -īt[um īrī]"
+      - "Perfect | īv[isse] | īt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | [iēns] | "
+      - "Future | īt[ūrus] | [eundus]*"
+      - "Perfect |  | īt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | [eundī]* | [eundō]* | [eundum]* | [eundō]*"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | [ī] | "
+      - "plural | [īte] | "

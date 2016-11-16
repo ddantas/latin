@@ -1,8 +1,8 @@
 # Latin charts
 
-This repository contains a tiny Latin verb conjugator that generates yaml files containing the conjugation of each verb and a pdf file.
+This repository contains a tiny Latin verb conjugator that generates yaml and pdf files containing respectively the conjugation of each verb and a graphical rendering.
 
-Contains also a tool to generate a declination chart.
+Contains also a tool to generate a noun declination chart.
 
 The design is strongly based on the charts by Ben Crowder, found [here](https://github.com/bccharts).
 
@@ -58,7 +58,7 @@ This project requires python and the package shoebot.
 
 * [Descriptive Latin Grammar](http://www.orbilat.com/Languages/Latin/Grammar/)
 
-* [Verbis Online Latin Verb Conjugator](http://www.verbix.com/languages/latin.shtml)
+* [Verbix Online Latin Verb Conjugator](http://www.verbix.com/languages/latin.shtml)
 
 * [The Latin Dictionary](http://latindictionary.wikidot.com/)
 

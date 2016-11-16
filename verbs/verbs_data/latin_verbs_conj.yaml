@@ -507,4 +507,88 @@ CONJMALO:
     groups:
       - "Present | māl[ō] | māv[is] | māv[ult] | mal[umus] | mavul[tis] | māl[unt]"
 
+########## Anomalous - Eo
+CONJEO:
+  label: Anomalous - Eo and derivatives
+  rules:
+  - mood: Active Indicative
+    groups:
+      - "Present | RPRES[eō]* | RPRES[īs] | RPRES[it] | RPRES[īmus] | RPRES[ītis] | RPRES[eunt]*"
+      - "Imperfect | RPRES[ībam]* | RPRES[ībās]* | RPRES[ībat]* | RPRES[ībāmus]* | RPRES[ībātis]* | RPRES[ībant]*"
+      - "Future | RPRES[ībō]* | RPRES[ībis]* | RPRES[ībit]* | RPRES[ībimus]* | RPRES[ībitis]* | RPRES[ībunt]*"
+      - "Perfect | RPERF[ī] | RPERF[istī] | RPERF[it] | RPERF[imus] | RPERF[istis] | RPERF[ērunt]"
+      - "Pluperfect | RPERF[eram] | RPERF[erās] | RPERF[erat] | RPERF[erāmus] | RPERF[erātis] | RPERF[erant]"
+      - "Future Perfect | RPERF[erō] | RPERF[eris] | RPERF[erit] | RPERF[erimus] | RPERF[eritis] | RPERF[erint]"
+
+  - mood: Passive Indicative
+    groups:
+      - "Present | -RPRES[ior] | -RPRES[īris] | RPRES[ītur] | -RPRES[īmur] | -RPRES[īminī] | -RPRES[iuntur]"
+      - "Imperfect | | | RPRES[ībātur]* | | | "
+      - "Future | | | RPRES[ībitur]* | | | "
+      - "Perfect | -RSUP[us sum] | -RSUP[us es] | RSUP[us est] | -RSUP[ī sumus] | -RSUP[ī estis] | -RSUP[ī sunt]"
+      - "Pluperfect | -RSUP[us eram] | -RSUP[us erās] | RSUP[us erat] | -RSUP[ī erāmus] | -RSUP[ī erātis] | -RSUP[ī erant]"
+      - "Future Perfect | -RSUP[us erō] | -RSUP[us eris] | RSUP[us erit] | -RSUP[ī erimus] | -RSUP[ī eritis] | -RSUP[ī erunt]"
+
+  - mood: Active Subjunctive
+    groups:
+      - "Present | RPRES[eam]* | RPRES[eās]* | RPRES[eat]* | RPRES[eāmus]* | RPRES[eātis]* | RPRES[eant]*"
+      - "Imperfect | RPRES[īrem] | RPRES[īrēs] | RPRES[īret] | RPRES[īrēmus] | RPRES[īrētis] | RPRES[īrent]"
+      - " | | | | | | "
+      - "Perfect | RPERFi[erim]* | RPERFi[erīs]* | RPERFi[erit]* | RPERFi[erīmus]* | RPERFi[erītis]* | RPERFi[erint]*"
+      - "Pluperfect | RPERF[issem] | RPERF[issēs] | RPERF[isset] | RPERF[issēmus] | RPERF[issētis] | RPERF[issent]"
+      - " | | | | | | "
+
+  - mood: Passive Subjunctive
+    groups:
+      - "Present | | | RPRES[eātur]* | | | "
+      - "Imperfect | -RPRES[īrer] | -RPRES[īrēris] | RPRES[īrētur] | -RPRES[īrēmur] | -RPRES[īrēminī] | -RPRES[īrentur]"
+      - " | | | | | | "
+      - "Perfect | -RSUP[us sim] | -RSUP[us sīs] | RSUP[us sit] | -RSUP[ī sīmus] | -RSUP[ī sītis] | -RSUP[ī sint]"
+      - "Pluperfect | -RSUP[us essem] | -RSUP[us essēs] | RSUP[us esset] | -RSUP[ī essēmus] | -RSUP[ī essētis] | -RSUP[ī essent]"
+      - " | | | | | | "
+  - mood: Infinitive
+    groups:
+      - "Present | RPRES[īre] | RPRES[īrī]"
+      - "Future | RSUP[ūrus esse] | -RSUP[um īrī]"
+      - "Perfect | RPERF[isse] | RSUP[us esse]"
+
+  - mood: Participle
+    groups:
+      - "Present | RPRES[iēns] |"
+      - "Future | RSUP[ūrus] | RPRES[eundus]*"
+      - "Perfect | | RSUP[us]"
+
+  - mood: Gerund
+    type: headerless
+    groups:
+      - "| RPRES[eundī]* | RPRES[eundō]* | RPRES[eundum]* | RPRES[eundō]*"
+
+  - mood: Imperative
+    groups:
+      - "singular | RPRES[ī] | "
+      - "plural | RPRES[īte] | "
+
+CONJABEO:
+  label: Anomalous - Eo and derivatives
+  rules:
+  - mood: Passive Indicative
+    groups:
+      - "Present | -RPRES[ior] | -RPRES[īris] | -RPRES[ītur] | -RPRES[īmur] | -RPRES[īminī] | -RPRES[iuntur]"
+      - "Imperfect | | | -RPRES[ībātur]* | | | "
+      - "Future | | | -RPRES[ībitur]* | | | "
+      - "Perfect | -RSUP[us sum] | -RSUP[us es] | -RSUP[us est] | -RSUP[ī sumus] | -RSUP[ī estis] | -RSUP[ī sunt]"
+      - "Pluperfect | -RSUP[us eram] | -RSUP[us erās] | -RSUP[us erat] | -RSUP[ī erāmus] | -RSUP[ī erātis] | -RSUP[ī erant]"
+      - "Future Perfect | -RSUP[us erō] | -RSUP[us eris] | -RSUP[us erit] | -RSUP[ī erimus] | -RSUP[ī eritis] | -RSUP[ī erunt]"
+
+  - mood: Passive Subjunctive
+    groups:
+      - "Present | | | -RPRES[eātur]* | | | "
+      - "Imperfect | -RPRES[īrer] | -RPRES[īrēris] | -RPRES[īrētur] | -RPRES[īrēmur] | -RPRES[īrēminī] | -RPRES[īrentur]"
+      - " | | | | | | "
+      - "Perfect | -RSUP[us sim] | -RSUP[us sīs] | -RSUP[us sit] | -RSUP[ī sīmus] | -RSUP[ī sītis] | -RSUP[ī sint]"
+      - "Pluperfect | -RSUP[us essem] | -RSUP[us essēs] | -RSUP[us esset] | -RSUP[ī essēmus] | -RSUP[ī essētis] | -RSUP[ī essent]"
+      - " | | | | | | "
+
+
+
 
