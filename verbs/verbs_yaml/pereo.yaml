@@ -1,0 +1,63 @@
+name: pereo
+label: Anomalous - Eo and derivatives
+updated: 16 November 2016
+example_word: "per[eo], per[īre], perī[ī], perīt[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | per[eō]* | per[īs] | per[it] | per[īmus] | per[ītis] | per[eunt]*"
+      - "Imperfect | per[ībam]* | per[ībās]* | per[ībat]* | per[ībāmus]* | per[ībātis]* | per[ībant]*"
+      - "Future | per[ībō]* | per[ībis]* | per[ībit]* | per[ībimus]* | per[ībitis]* | per[ībunt]*"
+      - "Perfect | perī[ī] | perī[istī] | perī[it] | perī[imus] | perī[istis] | perī[ērunt]"
+      - "Pluperfect | perī[eram] | perī[erās] | perī[erat] | perī[erāmus] | perī[erātis] | perī[erant]"
+      - "Future Perfect | perī[erō] | perī[eris] | perī[erit] | perī[erimus] | perī[eritis] | perī[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -per[ior] | -per[īris] | -per[ītur] | -per[īmur] | -per[īminī] | -per[iuntur]"
+      - "Imperfect |  |  | -per[ībātur]* |  |  | "
+      - "Future |  |  | -per[ībitur]* |  |  | "
+      - "Perfect | -perīt[us sum] | -perīt[us es] | -perīt[us est] | -perīt[ī sumus] | -perīt[ī estis] | -perīt[ī sunt]"
+      - "Pluperfect | -perīt[us eram] | -perīt[us erās] | -perīt[us erat] | -perīt[ī erāmus] | -perīt[ī erātis] | -perīt[ī erant]"
+      - "Future Perfect | -perīt[us erō] | -perīt[us eris] | -perīt[us erit] | -perīt[ī erimus] | -perīt[ī eritis] | -perīt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | per[eam]* | per[eās]* | per[eat]* | per[eāmus]* | per[eātis]* | per[eant]*"
+      - "Imperfect | per[īrem] | per[īrēs] | per[īret] | per[īrēmus] | per[īrētis] | per[īrent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | perī[erim]* | perī[erīs]* | perī[erit]* | perī[erīmus]* | perī[erītis]* | perī[erint]*"
+      - "Pluperfect | perī[ssem]* | perī[ssēs]* | perī[sset]* | perī[ssēmus]* | perī[ssētis]* | perī[ssent]*"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present |  |  | -per[eātur]* |  |  | "
+      - "Imperfect | -per[īrer] | -per[īrēris] | -per[īrētur] | -per[īrēmur] | -per[īrēminī] | -per[īrentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -perīt[us sim] | -perīt[us sīs] | -perīt[us sit] | -perīt[ī sīmus] | -perīt[ī sītis] | -perīt[ī sint]"
+      - "Pluperfect | -perīt[us essem] | -perīt[us essēs] | -perīt[us esset] | -perīt[ī essēmus] | -perīt[ī essētis] | -perīt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | per[īre] | per[īrī]"
+      - "Future | perīt[ūrus esse] | -perīt[um īrī]"
+      - "Perfect | perī[isse] | perīt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | per[iēns] | "
+      - "Future | perīt[ūrus] | per[eundus]*"
+      - "Perfect |  | perīt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | per[eundī]* | per[eundō]* | per[eundum]* | per[eundō]*"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | per[ī] | "
+      - "plural | per[īte] | "

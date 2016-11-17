@@ -1,0 +1,63 @@
+name: intereo
+label: Anomalous - Eo and derivatives
+updated: 16 November 2016
+example_word: "inter[eo], inter[īre], interī[ī], interīt[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | inter[eō]* | inter[īs] | inter[it] | inter[īmus] | inter[ītis] | inter[eunt]*"
+      - "Imperfect | inter[ībam]* | inter[ībās]* | inter[ībat]* | inter[ībāmus]* | inter[ībātis]* | inter[ībant]*"
+      - "Future | inter[ībō]* | inter[ībis]* | inter[ībit]* | inter[ībimus]* | inter[ībitis]* | inter[ībunt]*"
+      - "Perfect | interī[ī] | interī[istī] | interī[it] | interī[imus] | interī[istis] | interī[ērunt]"
+      - "Pluperfect | interī[eram] | interī[erās] | interī[erat] | interī[erāmus] | interī[erātis] | interī[erant]"
+      - "Future Perfect | interī[erō] | interī[eris] | interī[erit] | interī[erimus] | interī[eritis] | interī[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -inter[ior] | -inter[īris] | -inter[ītur] | -inter[īmur] | -inter[īminī] | -inter[iuntur]"
+      - "Imperfect |  |  | -inter[ībātur]* |  |  | "
+      - "Future |  |  | -inter[ībitur]* |  |  | "
+      - "Perfect | -interīt[us sum] | -interīt[us es] | -interīt[us est] | -interīt[ī sumus] | -interīt[ī estis] | -interīt[ī sunt]"
+      - "Pluperfect | -interīt[us eram] | -interīt[us erās] | -interīt[us erat] | -interīt[ī erāmus] | -interīt[ī erātis] | -interīt[ī erant]"
+      - "Future Perfect | -interīt[us erō] | -interīt[us eris] | -interīt[us erit] | -interīt[ī erimus] | -interīt[ī eritis] | -interīt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | inter[eam]* | inter[eās]* | inter[eat]* | inter[eāmus]* | inter[eātis]* | inter[eant]*"
+      - "Imperfect | inter[īrem] | inter[īrēs] | inter[īret] | inter[īrēmus] | inter[īrētis] | inter[īrent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | interī[erim]* | interī[erīs]* | interī[erit]* | interī[erīmus]* | interī[erītis]* | interī[erint]*"
+      - "Pluperfect | interī[ssem]* | interī[ssēs]* | interī[sset]* | interī[ssēmus]* | interī[ssētis]* | interī[ssent]*"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present |  |  | -inter[eātur]* |  |  | "
+      - "Imperfect | -inter[īrer] | -inter[īrēris] | -inter[īrētur] | -inter[īrēmur] | -inter[īrēminī] | -inter[īrentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -interīt[us sim] | -interīt[us sīs] | -interīt[us sit] | -interīt[ī sīmus] | -interīt[ī sītis] | -interīt[ī sint]"
+      - "Pluperfect | -interīt[us essem] | -interīt[us essēs] | -interīt[us esset] | -interīt[ī essēmus] | -interīt[ī essētis] | -interīt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | inter[īre] | inter[īrī]"
+      - "Future | interīt[ūrus esse] | -interīt[um īrī]"
+      - "Perfect | interī[isse] | interīt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | inter[iēns] | "
+      - "Future | interīt[ūrus] | inter[eundus]*"
+      - "Perfect |  | interīt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | inter[eundī]* | inter[eundō]* | inter[eundum]* | inter[eundō]*"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | inter[ī] | "
+      - "plural | inter[īte] | "

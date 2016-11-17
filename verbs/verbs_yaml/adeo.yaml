@@ -1,0 +1,63 @@
+name: adeo
+label: Anomalous - Eo and derivatives
+updated: 16 November 2016
+example_word: "ad[eo], ad[īre], adī[ī], adīt[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | ad[eō]* | ad[īs] | ad[it] | ad[īmus] | ad[ītis] | ad[eunt]*"
+      - "Imperfect | ad[ībam]* | ad[ībās]* | ad[ībat]* | ad[ībāmus]* | ad[ībātis]* | ad[ībant]*"
+      - "Future | ad[ībō]* | ad[ībis]* | ad[ībit]* | ad[ībimus]* | ad[ībitis]* | ad[ībunt]*"
+      - "Perfect | adī[ī] | adī[istī] | adī[it] | adī[imus] | adī[istis] | adī[ērunt]"
+      - "Pluperfect | adī[eram] | adī[erās] | adī[erat] | adī[erāmus] | adī[erātis] | adī[erant]"
+      - "Future Perfect | adī[erō] | adī[eris] | adī[erit] | adī[erimus] | adī[eritis] | adī[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -ad[ior] | -ad[īris] | -ad[ītur] | -ad[īmur] | -ad[īminī] | -ad[iuntur]"
+      - "Imperfect |  |  | -ad[ībātur]* |  |  | "
+      - "Future |  |  | -ad[ībitur]* |  |  | "
+      - "Perfect | -adīt[us sum] | -adīt[us es] | -adīt[us est] | -adīt[ī sumus] | -adīt[ī estis] | -adīt[ī sunt]"
+      - "Pluperfect | -adīt[us eram] | -adīt[us erās] | -adīt[us erat] | -adīt[ī erāmus] | -adīt[ī erātis] | -adīt[ī erant]"
+      - "Future Perfect | -adīt[us erō] | -adīt[us eris] | -adīt[us erit] | -adīt[ī erimus] | -adīt[ī eritis] | -adīt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | ad[eam]* | ad[eās]* | ad[eat]* | ad[eāmus]* | ad[eātis]* | ad[eant]*"
+      - "Imperfect | ad[īrem] | ad[īrēs] | ad[īret] | ad[īrēmus] | ad[īrētis] | ad[īrent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | adī[erim]* | adī[erīs]* | adī[erit]* | adī[erīmus]* | adī[erītis]* | adī[erint]*"
+      - "Pluperfect | adī[ssem]* | adī[ssēs]* | adī[sset]* | adī[ssēmus]* | adī[ssētis]* | adī[ssent]*"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present |  |  | -ad[eātur]* |  |  | "
+      - "Imperfect | -ad[īrer] | -ad[īrēris] | -ad[īrētur] | -ad[īrēmur] | -ad[īrēminī] | -ad[īrentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -adīt[us sim] | -adīt[us sīs] | -adīt[us sit] | -adīt[ī sīmus] | -adīt[ī sītis] | -adīt[ī sint]"
+      - "Pluperfect | -adīt[us essem] | -adīt[us essēs] | -adīt[us esset] | -adīt[ī essēmus] | -adīt[ī essētis] | -adīt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | ad[īre] | ad[īrī]"
+      - "Future | adīt[ūrus esse] | -adīt[um īrī]"
+      - "Perfect | adī[isse] | adīt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | ad[iēns] | "
+      - "Future | adīt[ūrus] | ad[eundus]*"
+      - "Perfect |  | adīt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | ad[eundī]* | ad[eundō]* | ad[eundum]* | ad[eundō]*"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | ad[ī] | "
+      - "plural | ad[īte] | "

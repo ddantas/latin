@@ -7,7 +7,7 @@ left:
     fill: "#cb202c"
     groups:
       - "Present | [eō]* | [īs] | [it] | [īmus] | [ītis] | [eunt]*"
-      - "Imperfect | [ībam]* | [ībās]* | [ībat]* | [ībāmus]* | [ībātis]* | [ībant]"
+      - "Imperfect | [ībam]* | [ībās]* | [ībat]* | [ībāmus]* | [ībātis]* | [ībant]*"
       - "Future | [ībō]* | [ībis]* | [ībit]* | [ībimus]* | [ībitis]* | [ībunt]*"
       - "Perfect | īv[ī] | īv[istī] | īv[it] | īv[imus] | īv[istis] | īv[ērunt]"
       - "Pluperfect | īv[eram] | īv[erās] | īv[erat] | īv[erāmus] | īv[erātis] | īv[erant]"

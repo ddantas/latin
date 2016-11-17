@@ -44,10 +44,28 @@ malo:      &MALO     {pres: "mal[ō]",     inf: "mal[le]",    perf: "malu[ī]", 
 malle:     *MALO
 
 # Anomalous - Eo
-eo:        &EO       {pres: "[eo]",       inf: "[īre]",      perf: "īv[ī]",      sup: "īt[um]",         paradigm: CONJEO  }
+eo:        &EO       {pres: "[eo]",       inf: "[īre]",      perf: "īv[ī]",     sup: "īt[um]",         paradigm: CONJEO  }
 ire:       *EO
 abeo:      &ABEO     {pres: "ab[eo]",     inf: "ab[īre]",    perf: "abī[ī]",    sup: "abīt[um]",       paradigm: CONJEO|CONJABEO  }
 abire:     *ABEO
+adeo:      &ADEO     {pres: "ad[eo]",     inf: "ad[īre]",    perf: "adī[ī]",    sup: "adīt[um]",       paradigm: CONJEO|CONJABEO  }
+adire:     *ADEO
+coeo:      &COEO     {pres: "co[eo]",     inf: "co[īre]",    perf: "coī[ī]",    sup: "coīt[um]",       paradigm: CONJEO|CONJABEO  }
+coire:     *COEO
+exeo:      &EXEO     {pres: "ex[eo]",     inf: "ex[īre]",    perf: "exī[ī]",    sup: "exīt[um]",       paradigm: CONJEO|CONJABEO  }
+exire:     *EXEO
+ineo:      &INEO     {pres: "in[eo]",     inf: "in[īre]",    perf: "inī[ī]",    sup: "inīt[um]",       paradigm: CONJEO|CONJABEO  }
+inire:     *INEO
+pereo:     &PEREO    {pres: "per[eo]",    inf: "per[īre]",   perf: "perī[ī]",   sup: "perīt[um]",      paradigm: CONJEO|CONJABEO  }
+perire:    *PEREO
+redeo:     &REDEO    {pres: "red[eo]",    inf: "red[īre]",   perf: "redī[ī]",   sup: "redīt[um]",      paradigm: CONJEO|CONJABEO  }
+redire:    *REDEO
+prodeo:    &PRODEO   {pres: "prod[eo]",   inf: "prod[īre]",  perf: "prodī[ī]",  sup: "prodīt[um]",     paradigm: CONJEO|CONJABEO  }
+prodire:   *PRODEO
+intereo:   &INTEREO  {pres: "inter[eo]",  inf: "inter[īre]", perf: "interī[ī]", sup: "interīt[um]",    paradigm: CONJEO|CONJABEO  }
+interire:  *INTEREO
+praetereo:  &PRAETEREO  {pres: "praeter[eo]",  inf: "praeter[īre]", perf: "praeterī[ī]", sup: "praeterīt[um]",   paradigm: CONJEO|CONJABEO  }
+praeterire: *PRAETEREO
 
 
 # ā ē ī ō ū

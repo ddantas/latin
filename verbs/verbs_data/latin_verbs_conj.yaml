@@ -583,6 +583,7 @@ CONJABEO:
   - mood: Active Subjunctive
     groups:
       - "Perfect | RPERF[erim]* | RPERF[erīs]* | RPERF[erit]* | RPERF[erīmus]* | RPERF[erītis]* | RPERF[erint]*"
+      - "Pluperfect | RPERF[ssem]* | RPERF[ssēs]* | RPERF[sset]* | RPERF[ssēmus]* | RPERF[ssētis]* | RPERF[ssent]*"
 
   - mood: Passive Subjunctive
     groups:

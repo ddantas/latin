@@ -1,0 +1,63 @@
+name: coeo
+label: Anomalous - Eo and derivatives
+updated: 16 November 2016
+example_word: "co[eo], co[īre], coī[ī], coīt[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | co[eō]* | co[īs] | co[it] | co[īmus] | co[ītis] | co[eunt]*"
+      - "Imperfect | co[ībam]* | co[ībās]* | co[ībat]* | co[ībāmus]* | co[ībātis]* | co[ībant]*"
+      - "Future | co[ībō]* | co[ībis]* | co[ībit]* | co[ībimus]* | co[ībitis]* | co[ībunt]*"
+      - "Perfect | coī[ī] | coī[istī] | coī[it] | coī[imus] | coī[istis] | coī[ērunt]"
+      - "Pluperfect | coī[eram] | coī[erās] | coī[erat] | coī[erāmus] | coī[erātis] | coī[erant]"
+      - "Future Perfect | coī[erō] | coī[eris] | coī[erit] | coī[erimus] | coī[eritis] | coī[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -co[ior] | -co[īris] | -co[ītur] | -co[īmur] | -co[īminī] | -co[iuntur]"
+      - "Imperfect |  |  | -co[ībātur]* |  |  | "
+      - "Future |  |  | -co[ībitur]* |  |  | "
+      - "Perfect | -coīt[us sum] | -coīt[us es] | -coīt[us est] | -coīt[ī sumus] | -coīt[ī estis] | -coīt[ī sunt]"
+      - "Pluperfect | -coīt[us eram] | -coīt[us erās] | -coīt[us erat] | -coīt[ī erāmus] | -coīt[ī erātis] | -coīt[ī erant]"
+      - "Future Perfect | -coīt[us erō] | -coīt[us eris] | -coīt[us erit] | -coīt[ī erimus] | -coīt[ī eritis] | -coīt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | co[eam]* | co[eās]* | co[eat]* | co[eāmus]* | co[eātis]* | co[eant]*"
+      - "Imperfect | co[īrem] | co[īrēs] | co[īret] | co[īrēmus] | co[īrētis] | co[īrent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | coī[erim]* | coī[erīs]* | coī[erit]* | coī[erīmus]* | coī[erītis]* | coī[erint]*"
+      - "Pluperfect | coī[ssem]* | coī[ssēs]* | coī[sset]* | coī[ssēmus]* | coī[ssētis]* | coī[ssent]*"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present |  |  | -co[eātur]* |  |  | "
+      - "Imperfect | -co[īrer] | -co[īrēris] | -co[īrētur] | -co[īrēmur] | -co[īrēminī] | -co[īrentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -coīt[us sim] | -coīt[us sīs] | -coīt[us sit] | -coīt[ī sīmus] | -coīt[ī sītis] | -coīt[ī sint]"
+      - "Pluperfect | -coīt[us essem] | -coīt[us essēs] | -coīt[us esset] | -coīt[ī essēmus] | -coīt[ī essētis] | -coīt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | co[īre] | co[īrī]"
+      - "Future | coīt[ūrus esse] | -coīt[um īrī]"
+      - "Perfect | coī[isse] | coīt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | co[iēns] | "
+      - "Future | coīt[ūrus] | co[eundus]*"
+      - "Perfect |  | coīt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | co[eundī]* | co[eundō]* | co[eundum]* | co[eundō]*"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | co[ī] | "
+      - "plural | co[īte] | "

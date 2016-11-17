@@ -1,0 +1,63 @@
+name: redeo
+label: Anomalous - Eo and derivatives
+updated: 16 November 2016
+example_word: "red[eo], red[īre], redī[ī], redīt[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | red[eō]* | red[īs] | red[it] | red[īmus] | red[ītis] | red[eunt]*"
+      - "Imperfect | red[ībam]* | red[ībās]* | red[ībat]* | red[ībāmus]* | red[ībātis]* | red[ībant]*"
+      - "Future | red[ībō]* | red[ībis]* | red[ībit]* | red[ībimus]* | red[ībitis]* | red[ībunt]*"
+      - "Perfect | redī[ī] | redī[istī] | redī[it] | redī[imus] | redī[istis] | redī[ērunt]"
+      - "Pluperfect | redī[eram] | redī[erās] | redī[erat] | redī[erāmus] | redī[erātis] | redī[erant]"
+      - "Future Perfect | redī[erō] | redī[eris] | redī[erit] | redī[erimus] | redī[eritis] | redī[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -red[ior] | -red[īris] | -red[ītur] | -red[īmur] | -red[īminī] | -red[iuntur]"
+      - "Imperfect |  |  | -red[ībātur]* |  |  | "
+      - "Future |  |  | -red[ībitur]* |  |  | "
+      - "Perfect | -redīt[us sum] | -redīt[us es] | -redīt[us est] | -redīt[ī sumus] | -redīt[ī estis] | -redīt[ī sunt]"
+      - "Pluperfect | -redīt[us eram] | -redīt[us erās] | -redīt[us erat] | -redīt[ī erāmus] | -redīt[ī erātis] | -redīt[ī erant]"
+      - "Future Perfect | -redīt[us erō] | -redīt[us eris] | -redīt[us erit] | -redīt[ī erimus] | -redīt[ī eritis] | -redīt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | red[eam]* | red[eās]* | red[eat]* | red[eāmus]* | red[eātis]* | red[eant]*"
+      - "Imperfect | red[īrem] | red[īrēs] | red[īret] | red[īrēmus] | red[īrētis] | red[īrent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | redī[erim]* | redī[erīs]* | redī[erit]* | redī[erīmus]* | redī[erītis]* | redī[erint]*"
+      - "Pluperfect | redī[ssem]* | redī[ssēs]* | redī[sset]* | redī[ssēmus]* | redī[ssētis]* | redī[ssent]*"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present |  |  | -red[eātur]* |  |  | "
+      - "Imperfect | -red[īrer] | -red[īrēris] | -red[īrētur] | -red[īrēmur] | -red[īrēminī] | -red[īrentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -redīt[us sim] | -redīt[us sīs] | -redīt[us sit] | -redīt[ī sīmus] | -redīt[ī sītis] | -redīt[ī sint]"
+      - "Pluperfect | -redīt[us essem] | -redīt[us essēs] | -redīt[us esset] | -redīt[ī essēmus] | -redīt[ī essētis] | -redīt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | red[īre] | red[īrī]"
+      - "Future | redīt[ūrus esse] | -redīt[um īrī]"
+      - "Perfect | redī[isse] | redīt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | red[iēns] | "
+      - "Future | redīt[ūrus] | red[eundus]*"
+      - "Perfect |  | redīt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | red[eundī]* | red[eundō]* | red[eundum]* | red[eundō]*"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | red[ī] | "
+      - "plural | red[īte] | "

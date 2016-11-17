@@ -1,0 +1,63 @@
+name: exeo
+label: Anomalous - Eo and derivatives
+updated: 16 November 2016
+example_word: "ex[eo], ex[īre], exī[ī], exīt[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | ex[eō]* | ex[īs] | ex[it] | ex[īmus] | ex[ītis] | ex[eunt]*"
+      - "Imperfect | ex[ībam]* | ex[ībās]* | ex[ībat]* | ex[ībāmus]* | ex[ībātis]* | ex[ībant]*"
+      - "Future | ex[ībō]* | ex[ībis]* | ex[ībit]* | ex[ībimus]* | ex[ībitis]* | ex[ībunt]*"
+      - "Perfect | exī[ī] | exī[istī] | exī[it] | exī[imus] | exī[istis] | exī[ērunt]"
+      - "Pluperfect | exī[eram] | exī[erās] | exī[erat] | exī[erāmus] | exī[erātis] | exī[erant]"
+      - "Future Perfect | exī[erō] | exī[eris] | exī[erit] | exī[erimus] | exī[eritis] | exī[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -ex[ior] | -ex[īris] | -ex[ītur] | -ex[īmur] | -ex[īminī] | -ex[iuntur]"
+      - "Imperfect |  |  | -ex[ībātur]* |  |  | "
+      - "Future |  |  | -ex[ībitur]* |  |  | "
+      - "Perfect | -exīt[us sum] | -exīt[us es] | -exīt[us est] | -exīt[ī sumus] | -exīt[ī estis] | -exīt[ī sunt]"
+      - "Pluperfect | -exīt[us eram] | -exīt[us erās] | -exīt[us erat] | -exīt[ī erāmus] | -exīt[ī erātis] | -exīt[ī erant]"
+      - "Future Perfect | -exīt[us erō] | -exīt[us eris] | -exīt[us erit] | -exīt[ī erimus] | -exīt[ī eritis] | -exīt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | ex[eam]* | ex[eās]* | ex[eat]* | ex[eāmus]* | ex[eātis]* | ex[eant]*"
+      - "Imperfect | ex[īrem] | ex[īrēs] | ex[īret] | ex[īrēmus] | ex[īrētis] | ex[īrent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | exī[erim]* | exī[erīs]* | exī[erit]* | exī[erīmus]* | exī[erītis]* | exī[erint]*"
+      - "Pluperfect | exī[ssem]* | exī[ssēs]* | exī[sset]* | exī[ssēmus]* | exī[ssētis]* | exī[ssent]*"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present |  |  | -ex[eātur]* |  |  | "
+      - "Imperfect | -ex[īrer] | -ex[īrēris] | -ex[īrētur] | -ex[īrēmur] | -ex[īrēminī] | -ex[īrentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -exīt[us sim] | -exīt[us sīs] | -exīt[us sit] | -exīt[ī sīmus] | -exīt[ī sītis] | -exīt[ī sint]"
+      - "Pluperfect | -exīt[us essem] | -exīt[us essēs] | -exīt[us esset] | -exīt[ī essēmus] | -exīt[ī essētis] | -exīt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | ex[īre] | ex[īrī]"
+      - "Future | exīt[ūrus esse] | -exīt[um īrī]"
+      - "Perfect | exī[isse] | exīt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | ex[iēns] | "
+      - "Future | exīt[ūrus] | ex[eundus]*"
+      - "Perfect |  | exīt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | ex[eundī]* | ex[eundō]* | ex[eundum]* | ex[eundō]*"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | ex[ī] | "
+      - "plural | ex[īte] | "

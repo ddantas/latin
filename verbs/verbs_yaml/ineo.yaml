@@ -1,0 +1,63 @@
+name: ineo
+label: Anomalous - Eo and derivatives
+updated: 16 November 2016
+example_word: "in[eo], in[īre], inī[ī], inīt[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | in[eō]* | in[īs] | in[it] | in[īmus] | in[ītis] | in[eunt]*"
+      - "Imperfect | in[ībam]* | in[ībās]* | in[ībat]* | in[ībāmus]* | in[ībātis]* | in[ībant]*"
+      - "Future | in[ībō]* | in[ībis]* | in[ībit]* | in[ībimus]* | in[ībitis]* | in[ībunt]*"
+      - "Perfect | inī[ī] | inī[istī] | inī[it] | inī[imus] | inī[istis] | inī[ērunt]"
+      - "Pluperfect | inī[eram] | inī[erās] | inī[erat] | inī[erāmus] | inī[erātis] | inī[erant]"
+      - "Future Perfect | inī[erō] | inī[eris] | inī[erit] | inī[erimus] | inī[eritis] | inī[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -in[ior] | -in[īris] | -in[ītur] | -in[īmur] | -in[īminī] | -in[iuntur]"
+      - "Imperfect |  |  | -in[ībātur]* |  |  | "
+      - "Future |  |  | -in[ībitur]* |  |  | "
+      - "Perfect | -inīt[us sum] | -inīt[us es] | -inīt[us est] | -inīt[ī sumus] | -inīt[ī estis] | -inīt[ī sunt]"
+      - "Pluperfect | -inīt[us eram] | -inīt[us erās] | -inīt[us erat] | -inīt[ī erāmus] | -inīt[ī erātis] | -inīt[ī erant]"
+      - "Future Perfect | -inīt[us erō] | -inīt[us eris] | -inīt[us erit] | -inīt[ī erimus] | -inīt[ī eritis] | -inīt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | in[eam]* | in[eās]* | in[eat]* | in[eāmus]* | in[eātis]* | in[eant]*"
+      - "Imperfect | in[īrem] | in[īrēs] | in[īret] | in[īrēmus] | in[īrētis] | in[īrent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | inī[erim]* | inī[erīs]* | inī[erit]* | inī[erīmus]* | inī[erītis]* | inī[erint]*"
+      - "Pluperfect | inī[ssem]* | inī[ssēs]* | inī[sset]* | inī[ssēmus]* | inī[ssētis]* | inī[ssent]*"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present |  |  | -in[eātur]* |  |  | "
+      - "Imperfect | -in[īrer] | -in[īrēris] | -in[īrētur] | -in[īrēmur] | -in[īrēminī] | -in[īrentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -inīt[us sim] | -inīt[us sīs] | -inīt[us sit] | -inīt[ī sīmus] | -inīt[ī sītis] | -inīt[ī sint]"
+      - "Pluperfect | -inīt[us essem] | -inīt[us essēs] | -inīt[us esset] | -inīt[ī essēmus] | -inīt[ī essētis] | -inīt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | in[īre] | in[īrī]"
+      - "Future | inīt[ūrus esse] | -inīt[um īrī]"
+      - "Perfect | inī[isse] | inīt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | in[iēns] | "
+      - "Future | inīt[ūrus] | in[eundus]*"
+      - "Perfect |  | inīt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | in[eundī]* | in[eundō]* | in[eundum]* | in[eundō]*"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | in[ī] | "
+      - "plural | in[īte] | "

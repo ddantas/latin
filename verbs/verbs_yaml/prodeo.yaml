@@ -1,0 +1,63 @@
+name: prodeo
+label: Anomalous - Eo and derivatives
+updated: 16 November 2016
+example_word: "prod[eo], prod[īre], prodī[ī], prodīt[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | prod[eō]* | prod[īs] | prod[it] | prod[īmus] | prod[ītis] | prod[eunt]*"
+      - "Imperfect | prod[ībam]* | prod[ībās]* | prod[ībat]* | prod[ībāmus]* | prod[ībātis]* | prod[ībant]*"
+      - "Future | prod[ībō]* | prod[ībis]* | prod[ībit]* | prod[ībimus]* | prod[ībitis]* | prod[ībunt]*"
+      - "Perfect | prodī[ī] | prodī[istī] | prodī[it] | prodī[imus] | prodī[istis] | prodī[ērunt]"
+      - "Pluperfect | prodī[eram] | prodī[erās] | prodī[erat] | prodī[erāmus] | prodī[erātis] | prodī[erant]"
+      - "Future Perfect | prodī[erō] | prodī[eris] | prodī[erit] | prodī[erimus] | prodī[eritis] | prodī[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -prod[ior] | -prod[īris] | -prod[ītur] | -prod[īmur] | -prod[īminī] | -prod[iuntur]"
+      - "Imperfect |  |  | -prod[ībātur]* |  |  | "
+      - "Future |  |  | -prod[ībitur]* |  |  | "
+      - "Perfect | -prodīt[us sum] | -prodīt[us es] | -prodīt[us est] | -prodīt[ī sumus] | -prodīt[ī estis] | -prodīt[ī sunt]"
+      - "Pluperfect | -prodīt[us eram] | -prodīt[us erās] | -prodīt[us erat] | -prodīt[ī erāmus] | -prodīt[ī erātis] | -prodīt[ī erant]"
+      - "Future Perfect | -prodīt[us erō] | -prodīt[us eris] | -prodīt[us erit] | -prodīt[ī erimus] | -prodīt[ī eritis] | -prodīt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | prod[eam]* | prod[eās]* | prod[eat]* | prod[eāmus]* | prod[eātis]* | prod[eant]*"
+      - "Imperfect | prod[īrem] | prod[īrēs] | prod[īret] | prod[īrēmus] | prod[īrētis] | prod[īrent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | prodī[erim]* | prodī[erīs]* | prodī[erit]* | prodī[erīmus]* | prodī[erītis]* | prodī[erint]*"
+      - "Pluperfect | prodī[ssem]* | prodī[ssēs]* | prodī[sset]* | prodī[ssēmus]* | prodī[ssētis]* | prodī[ssent]*"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present |  |  | -prod[eātur]* |  |  | "
+      - "Imperfect | -prod[īrer] | -prod[īrēris] | -prod[īrētur] | -prod[īrēmur] | -prod[īrēminī] | -prod[īrentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -prodīt[us sim] | -prodīt[us sīs] | -prodīt[us sit] | -prodīt[ī sīmus] | -prodīt[ī sītis] | -prodīt[ī sint]"
+      - "Pluperfect | -prodīt[us essem] | -prodīt[us essēs] | -prodīt[us esset] | -prodīt[ī essēmus] | -prodīt[ī essētis] | -prodīt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | prod[īre] | prod[īrī]"
+      - "Future | prodīt[ūrus esse] | -prodīt[um īrī]"
+      - "Perfect | prodī[isse] | prodīt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | prod[iēns] | "
+      - "Future | prodīt[ūrus] | prod[eundus]*"
+      - "Perfect |  | prodīt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | prod[eundī]* | prod[eundō]* | prod[eundum]* | prod[eundō]*"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | prod[ī] | "
+      - "plural | prod[īte] | "

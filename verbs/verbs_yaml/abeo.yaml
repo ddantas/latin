@@ -28,7 +28,7 @@ left:
       - "Imperfect | ab[īrem] | ab[īrēs] | ab[īret] | ab[īrēmus] | ab[īrētis] | ab[īrent]"
       - " |  |  |  |  |  | "
       - "Perfect | abī[erim]* | abī[erīs]* | abī[erit]* | abī[erīmus]* | abī[erītis]* | abī[erint]*"
-      - "Pluperfect | abī[issem] | abī[issēs] | abī[isset] | abī[issēmus] | abī[issētis] | abī[issent]"
+      - "Pluperfect | abī[ssem]* | abī[ssēs]* | abī[sset]* | abī[ssēmus]* | abī[ssētis]* | abī[ssent]*"
       - " |  |  |  |  |  | "
   - title: Passive Subjunctive
     fill: "#2075cb"

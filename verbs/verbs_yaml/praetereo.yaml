@@ -1,0 +1,63 @@
+name: praetereo
+label: Anomalous - Eo and derivatives
+updated: 16 November 2016
+example_word: "praeter[eo], praeter[īre], praeterī[ī], praeterīt[um]"
+left:
+  - title: Active Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | praeter[eō]* | praeter[īs] | praeter[it] | praeter[īmus] | praeter[ītis] | praeter[eunt]*"
+      - "Imperfect | praeter[ībam]* | praeter[ībās]* | praeter[ībat]* | praeter[ībāmus]* | praeter[ībātis]* | praeter[ībant]*"
+      - "Future | praeter[ībō]* | praeter[ībis]* | praeter[ībit]* | praeter[ībimus]* | praeter[ībitis]* | praeter[ībunt]*"
+      - "Perfect | praeterī[ī] | praeterī[istī] | praeterī[it] | praeterī[imus] | praeterī[istis] | praeterī[ērunt]"
+      - "Pluperfect | praeterī[eram] | praeterī[erās] | praeterī[erat] | praeterī[erāmus] | praeterī[erātis] | praeterī[erant]"
+      - "Future Perfect | praeterī[erō] | praeterī[eris] | praeterī[erit] | praeterī[erimus] | praeterī[eritis] | praeterī[erint]"
+  - title: Passive Indicative
+    fill: "#cb202c"
+    groups:
+      - "Present | -praeter[ior] | -praeter[īris] | -praeter[ītur] | -praeter[īmur] | -praeter[īminī] | -praeter[iuntur]"
+      - "Imperfect |  |  | -praeter[ībātur]* |  |  | "
+      - "Future |  |  | -praeter[ībitur]* |  |  | "
+      - "Perfect | -praeterīt[us sum] | -praeterīt[us es] | -praeterīt[us est] | -praeterīt[ī sumus] | -praeterīt[ī estis] | -praeterīt[ī sunt]"
+      - "Pluperfect | -praeterīt[us eram] | -praeterīt[us erās] | -praeterīt[us erat] | -praeterīt[ī erāmus] | -praeterīt[ī erātis] | -praeterīt[ī erant]"
+      - "Future Perfect | -praeterīt[us erō] | -praeterīt[us eris] | -praeterīt[us erit] | -praeterīt[ī erimus] | -praeterīt[ī eritis] | -praeterīt[ī erunt]"
+  - title: Active Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present | praeter[eam]* | praeter[eās]* | praeter[eat]* | praeter[eāmus]* | praeter[eātis]* | praeter[eant]*"
+      - "Imperfect | praeter[īrem] | praeter[īrēs] | praeter[īret] | praeter[īrēmus] | praeter[īrētis] | praeter[īrent]"
+      - " |  |  |  |  |  | "
+      - "Perfect | praeterī[erim]* | praeterī[erīs]* | praeterī[erit]* | praeterī[erīmus]* | praeterī[erītis]* | praeterī[erint]*"
+      - "Pluperfect | praeterī[ssem]* | praeterī[ssēs]* | praeterī[sset]* | praeterī[ssēmus]* | praeterī[ssētis]* | praeterī[ssent]*"
+      - " |  |  |  |  |  | "
+  - title: Passive Subjunctive
+    fill: "#2075cb"
+    groups:
+      - "Present |  |  | -praeter[eātur]* |  |  | "
+      - "Imperfect | -praeter[īrer] | -praeter[īrēris] | -praeter[īrētur] | -praeter[īrēmur] | -praeter[īrēminī] | -praeter[īrentur]"
+      - " |  |  |  |  |  | "
+      - "Perfect | -praeterīt[us sim] | -praeterīt[us sīs] | -praeterīt[us sit] | -praeterīt[ī sīmus] | -praeterīt[ī sītis] | -praeterīt[ī sint]"
+      - "Pluperfect | -praeterīt[us essem] | -praeterīt[us essēs] | -praeterīt[us esset] | -praeterīt[ī essēmus] | -praeterīt[ī essētis] | -praeterīt[ī essent]"
+      - " |  |  |  |  |  | "
+right:
+  - title: Infinitive
+    fill: "#42b314"
+    groups:
+      - "Present | praeter[īre] | praeter[īrī]"
+      - "Future | praeterīt[ūrus esse] | -praeterīt[um īrī]"
+      - "Perfect | praeterī[isse] | praeterīt[us esse]"
+  - title: Participle
+    fill: "#b2640a"
+    groups:
+      - "Present | praeter[iēns] | "
+      - "Future | praeterīt[ūrus] | praeter[eundus]*"
+      - "Perfect |  | praeterīt[us]"
+  - title: Gerund
+    fill: "#a020cb"
+    groups:
+      - " | praeter[eundī]* | praeter[eundō]* | praeter[eundum]* | praeter[eundō]*"
+  - title: Imperative
+    fill: "#04aba5"
+    groups:
+      - "singular | praeter[ī] | "
+      - "plural | praeter[īte] | "

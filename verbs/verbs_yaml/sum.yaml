@@ -1,6 +1,6 @@
 name: sum
 label: Anomalous - Sum and derivatives
-updated: 13 November 2016
+updated: 16 November 2016
 example_word: "[sum], es[se], fu[ī], fut[urus]"
 left:
   - title: Active Indicative
